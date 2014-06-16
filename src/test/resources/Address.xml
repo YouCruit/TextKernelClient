@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Address>
+	<StreetName>streetName</StreetName>
+	<StreetNumberBase>1</StreetNumberBase>
+	<PostalCode>123</PostalCode>
+	<City>Malmö</City>
+	<RegionCode></RegionCode>
+	<RegionCodeDescription></RegionCodeDescription>
+	<CountryCode></CountryCode>
+	<CountryCodeDescription>Island</CountryCodeDescription>
+</Address>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmploymentItem>
+		<JobTitle>jobTitle</JobTitle>
+ 		<StartDate>2012-01-01</StartDate>
+ 		<EndDate>present</EndDate>
+		<ExperienceYears>3</ExperienceYears>
+		<EmployerName>employerName</EmployerName>
+		<Description>Random long description</Description>
+	</EmploymentItem>

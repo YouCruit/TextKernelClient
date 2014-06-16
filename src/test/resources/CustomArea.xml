@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomArea>
+	<CVTitle>cvTitle</CVTitle>
+	<TotalExperienceYears>16</TotalExperienceYears>
+	<CurrentJob>Developer, Partner</CurrentJob>
+	<CurrentEmployer>FF Youcruit AB</CurrentEmployer>
+	<Last3Experiences>Senior Consultant, Software Engineer / Project Leader, Network Technician</Last3Experiences>
+	<HighestEducationLevelCode>5</HighestEducationLevelCode>
+	<HighestEducationLevelCodeDescription>Master</HighestEducationLevelCodeDescription>
+	<SalaryCode>77</SalaryCode>
+	<SalaryCodeDescription>80000</SalaryCodeDescription>
+	<CandidateStatusCode>3</CandidateStatusCode>
+	<CandidateStatusCodeDescription>abc</CandidateStatusCodeDescription>
+	<AvailabilityCode>3</AvailabilityCode>
+	<AvailabilityCodeDescription>asdf</AvailabilityCodeDescription>
+	<CVComment>cvComment</CVComment>
+	<CandidatePermission>permit</CandidatePermission>
+	<ExternalID>777jjjj</ExternalID>
+</CustomArea>

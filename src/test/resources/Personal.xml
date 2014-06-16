@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Personal>
+	<Title>title</Title>
+	<FirstName>firstName</FirstName>
+	<LastName>lastName</LastName>
+	<DateOfBirth>2014-06-16</DateOfBirth>
+	<NationalityCode></NationalityCode>
+	<NationalityCodeDescription>Danish</NationalityCodeDescription>
+	<GenderCode>1</GenderCode>
+	<GenderCodeDescription>Male</GenderCodeDescription>
+	<DriversLicence></DriversLicence>
+	<MaritalStatusCode></MaritalStatusCode>
+	<MaritalStatusCodeDescription></MaritalStatusCodeDescription>
+	<Address>
+		<StreetName></StreetName>
+		<StreetNumberBase></StreetNumberBase>
+		<PostalCode></PostalCode>
+		<City></City>
+			<RegionCode></RegionCode>
+		<RegionCodeDescription></RegionCodeDescription>
+			<CountryCode></CountryCode>
+		<CountryCodeDescription></CountryCodeDescription>
+	</Address>
+        <MobilePhones>
+		<MobilePhone>0046(0)555555555</MobilePhone>
+
+        </MobilePhones>
+	<HomePhones>
+		<HomePhone>0046(0)555555555</HomePhone>
+
+	</HomePhones>
+	<Emails>
+		<Email>ask@me.com</Email>
+
+	</Emails>
+        <SocialMedia>
+		<SocialMediaLink>
+			<SocialMediaURL></SocialMediaURL>
+			<SocialMediaType></SocialMediaType>
+		</SocialMediaLink>
+
+        </SocialMedia>
+</Personal>
