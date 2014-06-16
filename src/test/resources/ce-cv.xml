@@ -1,0 +1,1550 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Profile lang="english" xmlns="http://home.textkernel.nl/2013-08-01" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://home.textkernel.nl/2013-08-01 tkprofile.xsd">
+<Personal>
+	<Title></Title>
+	<FirstName>Christian</FirstName>
+	<LastName>Ekstrand</LastName>
+	<DateOfBirth></DateOfBirth>
+	<NationalityCode></NationalityCode>
+	<NationalityCodeDescription></NationalityCodeDescription>
+	<GenderCode>1</GenderCode>
+	<GenderCodeDescription>Male</GenderCodeDescription>
+	<DriversLicence></DriversLicence>
+	<MaritalStatusCode></MaritalStatusCode>
+	<MaritalStatusCodeDescription></MaritalStatusCodeDescription>
+	<Address>
+		<StreetName></StreetName>
+		<StreetNumberBase></StreetNumberBase>
+		<PostalCode></PostalCode>
+		<City></City>
+			<RegionCode></RegionCode>
+		<RegionCodeDescription></RegionCodeDescription>
+			<CountryCode></CountryCode>
+		<CountryCodeDescription></CountryCodeDescription>
+	</Address>
+        <MobilePhones>
+		<MobilePhone>0046(0)555555555</MobilePhone>
+
+        </MobilePhones>
+	<HomePhones>
+		<HomePhone></HomePhone>
+
+	</HomePhones>
+	<Emails>
+		<Email></Email>
+
+	</Emails>
+        <SocialMedia>
+		<SocialMediaLink>
+			<SocialMediaURL></SocialMediaURL>
+			<SocialMediaType></SocialMediaType>
+		</SocialMediaLink>
+
+        </SocialMedia>
+</Personal>
+<EducationHistory>
+	<EducationItem>
+	    	<EducationLevelCode>7</EducationLevelCode>
+		<EducationLevelCodeDescription></EducationLevelCodeDescription>
+		<DegreeDirection></DegreeDirection>
+		<StartDate></StartDate>
+		<EndDate>2013-06-30</EndDate>
+		<InstituteName>Anki Nilsson Kommunikationsträning Malmö, Sweden Presentationsteknik</InstituteName>
+		<DiplomaCode>4</DiplomaCode>
+                <DiplomaCodeDescription>Unknown</DiplomaCodeDescription>
+	</EducationItem>
+	<EducationItem>
+	    	<EducationLevelCode>7</EducationLevelCode>
+		<EducationLevelCodeDescription></EducationLevelCodeDescription>
+		<DegreeDirection>Certified Scrum Product Owner</DegreeDirection>
+		<StartDate></StartDate>
+		<EndDate>2013-06-30</EndDate>
+		<InstituteName>Softhouse Education Malmö, Sweden</InstituteName>
+		<DiplomaCode>4</DiplomaCode>
+                <DiplomaCodeDescription>Unknown</DiplomaCodeDescription>
+	</EducationItem>
+	<EducationItem>
+	    	<EducationLevelCode>7</EducationLevelCode>
+		<EducationLevelCodeDescription></EducationLevelCodeDescription>
+		<DegreeDirection>UGL - Understanding Group and Leadership</DegreeDirection>
+		<StartDate></StartDate>
+		<EndDate>2010-06-30</EndDate>
+		<InstituteName>Indigo Management Borgholm, Sweden</InstituteName>
+		<DiplomaCode>4</DiplomaCode>
+                <DiplomaCodeDescription>Unknown</DiplomaCodeDescription>
+	</EducationItem>
+	<EducationItem>
+	    	<EducationLevelCode>7</EducationLevelCode>
+		<EducationLevelCodeDescription></EducationLevelCodeDescription>
+		<DegreeDirection>Deep Lean course</DegreeDirection>
+		<StartDate></StartDate>
+		<EndDate>2009-06-30</EndDate>
+		<InstituteName>Crisp Stockholm, Sweden; Jeff Sutherland, Mary Poppendieck, Tom Poppendieck &amp; Henrik Kniberg</InstituteName>
+		<DiplomaCode>4</DiplomaCode>
+                <DiplomaCodeDescription>Unknown</DiplomaCodeDescription>
+	</EducationItem>
+	<EducationItem>
+	    	<EducationLevelCode>5</EducationLevelCode>
+		<EducationLevelCodeDescription>Master</EducationLevelCodeDescription>
+		<DegreeDirection>Scrum; Certified Scrum Master Course</DegreeDirection>
+		<StartDate></StartDate>
+		<EndDate>2008-06-30</EndDate>
+		<InstituteName>Alliance Stockholm, Sweden; Jeff Sutherland and Henrik Kniberg</InstituteName>
+		<DiplomaCode>4</DiplomaCode>
+                <DiplomaCodeDescription>Unknown</DiplomaCodeDescription>
+	</EducationItem>
+	<EducationItem>
+	    	<EducationLevelCode>7</EducationLevelCode>
+		<EducationLevelCodeDescription></EducationLevelCodeDescription>
+		<DegreeDirection>Semcon Project Management; Project planning and management</DegreeDirection>
+		<StartDate></StartDate>
+		<EndDate>2007-06-30</EndDate>
+		<InstituteName>Lund, Sweden</InstituteName>
+		<DiplomaCode>4</DiplomaCode>
+                <DiplomaCodeDescription>Unknown</DiplomaCodeDescription>
+	</EducationItem>
+	<EducationItem>
+	    	<EducationLevelCode>2</EducationLevelCode>
+		<EducationLevelCodeDescription>Vocational Education</EducationLevelCodeDescription>
+		<DegreeDirection>aWaves; Mobile Networks with focus on service implementation</DegreeDirection>
+		<StartDate></StartDate>
+		<EndDate>2006-06-30</EndDate>
+		<InstituteName>Academy Malmö, Sweden</InstituteName>
+		<DiplomaCode>4</DiplomaCode>
+                <DiplomaCodeDescription>Unknown</DiplomaCodeDescription>
+	</EducationItem>
+	<EducationItem>
+	    	<EducationLevelCode>5</EducationLevelCode>
+		<EducationLevelCodeDescription>Master</EducationLevelCodeDescription>
+		<DegreeDirection>Master of Science, Information and Communication Technology</DegreeDirection>
+		<StartDate>2002-09-01</StartDate>
+		<EndDate>2005-06-30</EndDate>
+		<InstituteName>Lund University Lund, Sweden</InstituteName>
+		<DiplomaCode>4</DiplomaCode>
+                <DiplomaCodeDescription>Unknown</DiplomaCodeDescription>
+	</EducationItem>
+	<EducationItem>
+	    	<EducationLevelCode>3</EducationLevelCode>
+		<EducationLevelCodeDescription></EducationLevelCodeDescription>
+		<DegreeDirection>40p design and development</DegreeDirection>
+		<StartDate>2001-09-01</StartDate>
+		<EndDate>2002-06-30</EndDate>
+		<InstituteName>Lund University Lund, Sweden</InstituteName>
+		<DiplomaCode>4</DiplomaCode>
+                <DiplomaCodeDescription>Unknown</DiplomaCodeDescription>
+	</EducationItem>
+	<EducationItem>
+	    	<EducationLevelCode>7</EducationLevelCode>
+		<EducationLevelCodeDescription></EducationLevelCodeDescription>
+		<DegreeDirection>Computer Science 40p courses</DegreeDirection>
+		<StartDate>1999-09-01</StartDate>
+		<EndDate>2000-06-30</EndDate>
+		<InstituteName>Lund University Lund, Sweden</InstituteName>
+		<DiplomaCode>4</DiplomaCode>
+                <DiplomaCodeDescription>Unknown</DiplomaCodeDescription>
+	</EducationItem>
+	<EducationItem>
+	    	<EducationLevelCode>7</EducationLevelCode>
+		<EducationLevelCodeDescription></EducationLevelCodeDescription>
+		<DegreeDirection></DegreeDirection>
+		<StartDate>1996-09-01</StartDate>
+		<EndDate>1999-06-30</EndDate>
+		<InstituteName>Friaborgsskolan Simrishamn, Sweden</InstituteName>
+		<DiplomaCode>4</DiplomaCode>
+                <DiplomaCodeDescription>Unknown</DiplomaCodeDescription>
+	</EducationItem>
+
+</EducationHistory>
+<EmploymentHistory>
+	<EmploymentItem>
+		<JobTitle>Developer, Partner</JobTitle>
+ 		<StartDate>2012-01-01</StartDate>
+ 		<EndDate>present</EndDate>
+		<ExperienceYears>3</ExperienceYears>
+		<EmployerName>FF Youcruit AB</EmployerName>
+		<Description>**     Developed and arcitechted Frontend, developed backend.
+**     Part of the team that brought Youcruit from an idea to an up and
+  running business.</Description>
+	</EmploymentItem>
+	<EmploymentItem>
+		<JobTitle>Senior Consultant</JobTitle>
+ 		<StartDate>2010-01-01</StartDate>
+ 		<EndDate>present</EndDate>
+		<ExperienceYears>5</ExperienceYears>
+		<EmployerName>FF Softhouse AB</EmployerName>
+		<Description>**     Worked as an Agile Coach focusing on making Scrum and Kanban work
+       for teams.
+**     Software development and Lean consultant. Worked with developing
+       excellent software and helping organizations improve their performance.</Description>
+	</EmploymentItem>
+	<EmploymentItem>
+		<JobTitle>Software Engineer / Project Leader</JobTitle>
+ 		<StartDate>2005-01-01</StartDate>
+ 		<EndDate>2010-01-01</EndDate>
+		<ExperienceYears>6</ExperienceYears>
+		<EmployerName>Tactel AB</EmployerName>
+		<Description>**     Worked closely with fellow Engineers on a large system consisting of
+       Servers and clients throughout the lifecycle. Delivered solutions for
+       several customers including setting up and running operations.
+       Participated in product management with roadmap and planning for new
+       functionality.
+**     Managed a multi-project environment with teams and team members
+       located in Malmö, Kiev, Huskvarna and Umeå. Customers were mostly
+       mobile network operators located in the EMEA and APAC regions.
+       Brought the release cycle down from 6 - 12 months to 2 - 4 weeks.
+       Worked in close cooperation with application planners and project
+       owners.
+**     Brought derailed high profile projects back on track. The project was
+       initiated at the customers Tokyo office and included mobile phone
+       applications implementing several DLNA use cases.
+**     Coordinated efforts to raise the quality of a large embedded system.
+**     Developed applications in a variety of environments ranging from
+       embedded C to Java EE.</Description>
+	</EmploymentItem>
+	<EmploymentItem>
+		<JobTitle></JobTitle>
+ 		<StartDate>2005-01-01</StartDate>
+ 		<EndDate></EndDate>
+		<ExperienceYears>1</ExperienceYears>
+		<EmployerName>Ericsson AB</EmployerName>
+		<Description>Master&apos;s Thesis
+**     Developed a method for estimation of software performance
+       requirements in the EMP platform with focus on multimedia software.
+       The original task was to create a simulation environment and part of the
+       findings was that this was not feasible.</Description>
+	</EmploymentItem>
+	<EmploymentItem>
+		<JobTitle>Network Technician</JobTitle>
+ 		<StartDate>1998-01-01</StartDate>
+ 		<EndDate>2003-12-31</EndDate>
+		<ExperienceYears>6</ExperienceYears>
+		<EmployerName>Plastal AB</EmployerName>
+		<Description>holidays
+                        **     Responsible for operations and maintenance of servers, workstations
+                               and networks. The environment was based on Windows NT and 2000,
+                               though Linux, HP-UX, IBM AIX and IBM OS/400 were also present.
+                        **     Developed support applications in Visual Basic.</Description>
+	</EmploymentItem>
+	<EmploymentItem>
+		<JobTitle>Network Technician</JobTitle>
+ 		<StartDate>2000-01-01</StartDate>
+ 		<EndDate></EndDate>
+		<ExperienceYears>1</ExperienceYears>
+		<EmployerName>Internet Pro AB</EmployerName>
+		<Description>**     Consultant working with operations of Windows NT server and client
+       systems, Linux firewalls and Cisco routers.
+**     Development and consulting of network surveillance applications mainly
+       written in Perl.
+**     Installation and configuration of Microsoft IIS and Apache web servers.</Description>
+	</EmploymentItem>
+	<EmploymentItem>
+		<JobTitle>Agile Coach</JobTitle>
+ 		<StartDate>2013-01-01</StartDate>
+ 		<EndDate></EndDate>
+		<ExperienceYears>1</ExperienceYears>
+		<EmployerName>Softhouse</EmployerName>
+		<Description>Worked as an Agile Coach for a Large Enterprise introducing Agile and
+Lean ways of working. Personally trained, coached and ran team building
+excersizes for more than 20 teams. Coached and educated managers. Set
+up and ran a program for training to be coaches.</Description>
+	</EmploymentItem>
+	<EmploymentItem>
+		<JobTitle>Developer; Developer</JobTitle>
+ 		<StartDate>2012-01-01</StartDate>
+ 		<EndDate>present</EndDate>
+		<ExperienceYears>3</ExperienceYears>
+		<EmployerName>Youcruit</EmployerName>
+		<Description>Techniques: Javascript, Java, BackboneJS, JQuery, Maven, PostgreSQL,
+       MongoDB, REST,
+       Developed the frontend and backend for a video CV service. A
+       responsive one page javascript state of the art web application.
+
+Softhouse 2011 24 Months
+       Techniques: Java, Javascript, GWT, C++, Python
+       Role: Developer
+       Agile developer of web management interface against a building
+       automation system. Architected major updates to system regarding
+       functionality and security.</Description>
+	</EmploymentItem>
+	<EmploymentItem>
+		<JobTitle>Developer</JobTitle>
+ 		<StartDate>2011-01-01</StartDate>
+ 		<EndDate></EndDate>
+		<ExperienceYears>1</ExperienceYears>
+		<EmployerName>Side Project</EmployerName>
+		<Description>Developed a social marketing solution for a startup. The solution was a
+module that was included in the checkout flow of webshops.</Description>
+	</EmploymentItem>
+	<EmploymentItem>
+		<JobTitle>Software Project Manager</JobTitle>
+ 		<StartDate>2010-01-01</StartDate>
+ 		<EndDate></EndDate>
+		<ExperienceYears>1</ExperienceYears>
+		<EmployerName>Softhouse</EmployerName>
+		<Description>Managing several software projects against a customer in Japan at a
+mobile phone platform and modem vendor in the telecommunications
+industry. Responsible for deliveries and development of software directly
+towards the customer with teams at several locations in Europe and
+Japan.</Description>
+	</EmploymentItem>
+	<EmploymentItem>
+		<JobTitle>Developer</JobTitle>
+ 		<StartDate>2010-01-01</StartDate>
+ 		<EndDate></EndDate>
+		<ExperienceYears>1</ExperienceYears>
+		<EmployerName>Softhouse</EmployerName>
+		<Description>Techniques: Scrum, Android, ASP.NET, Maven, Hudson
+Developed an Android client application against an existing ASP.NET
+backend system. Managed implementation of Scrum within the team, set
+the application architecture, set up and implemented continuous
+integration and TDD. Debugged the backend system. Focused on
+optimizing the system with usability for the end user as the main goal.</Description>
+	</EmploymentItem>
+	<EmploymentItem>
+		<JobTitle>Program Manager</JobTitle>
+ 		<StartDate>2009-01-01</StartDate>
+ 		<EndDate></EndDate>
+		<ExperienceYears>1</ExperienceYears>
+		<EmployerName>Tactel</EmployerName>
+		<Description>Led several development teams, an operations department and project
+Managers. Worked with customization projects for telecom operators
+around the globe as well as r&amp;d. Took active part in technical problem</Description>
+	</EmploymentItem>
+	<EmploymentItem>
+		<JobTitle>Developer; System Engineer</JobTitle>
+ 		<StartDate>2009-01-01</StartDate>
+ 		<EndDate></EndDate>
+		<ExperienceYears>1</ExperienceYears>
+		<EmployerName>Tactel</EmployerName>
+		<Description>1 Month
+                           Techniques: SOAP, REST, Java, LDAP
+                           Set up, configured and customized a CMS system based on the Alfresco
+                           open source system.</Description>
+	</EmploymentItem>
+	<EmploymentItem>
+		<JobTitle>Project leader</JobTitle>
+ 		<StartDate>2008-01-01</StartDate>
+ 		<EndDate></EndDate>
+		<ExperienceYears>1</ExperienceYears>
+		<EmployerName>Tactel</EmployerName>
+		<Description>Led several teams developing Java ME based multimedia applications for
+a major mobile handset manufacturer. Was responsible for handing over
+projects to teams in Brazil. Brought back a project in crisis from Tokyo.</Description>
+	</EmploymentItem>
+	<EmploymentItem>
+		<JobTitle>Critical Chain; Project Leader, Team Leader</JobTitle>
+ 		<StartDate>2007-01-01</StartDate>
+ 		<EndDate></EndDate>
+		<ExperienceYears>1</ExperienceYears>
+		<EmployerName>Tactel</EmployerName>
+		<Description>14 months
+                           Brought several Java ME based applications in the sports / active
+                           lifestyle segment to market for a major mobile handset manufacturer.
+                           Worked with different parties throughout the lifecycle. Introduced
+                           Scrum when the project was &quot;doomed&quot; and brought it back on schedule.</Description>
+	</EmploymentItem>
+	<EmploymentItem>
+		<JobTitle>Developer</JobTitle>
+ 		<StartDate>2007-01-01</StartDate>
+ 		<EndDate></EndDate>
+		<ExperienceYears>1</ExperienceYears>
+		<EmployerName>Tactel</EmployerName>
+		<Description>Techniques: C, Java, Lauterbach, TCP/IP, OSE
+Worked as a problem solving consultant at a major mobile handset
+manufacturer. Coordinated efforts between several suppliers and
+different groups within the customer&apos;s organization.</Description>
+	</EmploymentItem>
+	<EmploymentItem>
+		<JobTitle>Developer, Architect</JobTitle>
+ 		<StartDate>2006-01-01</StartDate>
+ 		<EndDate></EndDate>
+		<ExperienceYears>1</ExperienceYears>
+		<EmployerName>Tactel</EmployerName>
+		<Description>12 month
+                           Techniques: Java, SOAP, OMA-DS, HTTP, Hibernate, JDBC, JSP,
+                           Servlet, Apache Tomcat
+                           Architected a major rewrite of an OMA-DS server suite. Developed
+                           SOAP based public API:s. Optimized applications across the software
+                           stack including web client code and database queries.</Description>
+	</EmploymentItem>
+	<EmploymentItem>
+		<JobTitle>Developer</JobTitle>
+ 		<StartDate>2006-01-01</StartDate>
+ 		<EndDate></EndDate>
+		<ExperienceYears>1</ExperienceYears>
+		<EmployerName>Tactel</EmployerName>
+		<Description>Techniques: Java EE, HTTP, SMPP, OMA-DM, SOAP, Struts, Oracle,
+Weblogic
+Set up an OMA-DM server and built a demo application on top of it for
+the 3 GSM fair.</Description>
+	</EmploymentItem>
+	<EmploymentItem>
+		<JobTitle>Developer</JobTitle>
+ 		<StartDate>2005-01-01</StartDate>
+ 		<EndDate></EndDate>
+		<ExperienceYears>1</ExperienceYears>
+		<EmployerName>Tactel</EmployerName>
+		<Description>Developed a stunning data visualization application for a major mobile
+handset manufacturer.</Description>
+	</EmploymentItem>
+</EmploymentHistory>
+<Skills>
+	<ComputerSkills>
+		<ComputerSkill>
+ 			<ComputerSkillName>Windows NT and 2000</ComputerSkillName>
+ 			<ComputerSkillDuration>6</ComputerSkillDuration>
+ 		</ComputerSkill>
+		<ComputerSkill>
+ 			<ComputerSkillName>Linux</ComputerSkillName>
+ 			<ComputerSkillDuration>6</ComputerSkillDuration>
+ 		</ComputerSkill>
+		<ComputerSkill>
+ 			<ComputerSkillName>HP-UX</ComputerSkillName>
+ 			<ComputerSkillDuration>6</ComputerSkillDuration>
+ 		</ComputerSkill>
+		<ComputerSkill>
+ 			<ComputerSkillName>IBM AIX</ComputerSkillName>
+ 			<ComputerSkillDuration>6</ComputerSkillDuration>
+ 		</ComputerSkill>
+		<ComputerSkill>
+ 			<ComputerSkillName>IBM OS/400</ComputerSkillName>
+ 			<ComputerSkillDuration>6</ComputerSkillDuration>
+ 		</ComputerSkill>
+		<ComputerSkill>
+ 			<ComputerSkillName>Visual Basic</ComputerSkillName>
+ 			<ComputerSkillDuration>6</ComputerSkillDuration>
+ 		</ComputerSkill>
+		<ComputerSkill>
+ 			<ComputerSkillName>Windows NT server</ComputerSkillName>
+ 			<ComputerSkillDuration>1</ComputerSkillDuration>
+ 		</ComputerSkill>
+		<ComputerSkill>
+ 			<ComputerSkillName>Linux firewalls</ComputerSkillName>
+ 			<ComputerSkillDuration>1</ComputerSkillDuration>
+ 		</ComputerSkill>
+		<ComputerSkill>
+ 			<ComputerSkillName>Cisco routers</ComputerSkillName>
+ 			<ComputerSkillDuration>1</ComputerSkillDuration>
+ 		</ComputerSkill>
+		<ComputerSkill>
+ 			<ComputerSkillName>Microsoft IIS</ComputerSkillName>
+ 			<ComputerSkillDuration>1</ComputerSkillDuration>
+ 		</ComputerSkill>
+		<ComputerSkill>
+ 			<ComputerSkillName>Apache web servers</ComputerSkillName>
+ 			<ComputerSkillDuration>1</ComputerSkillDuration>
+ 		</ComputerSkill>
+		<ComputerSkill>
+ 			<ComputerSkillName>Android</ComputerSkillName>
+ 			<ComputerSkillDuration>1</ComputerSkillDuration>
+ 		</ComputerSkill>
+		<ComputerSkill>
+ 			<ComputerSkillName>Windows</ComputerSkillName>
+ 			<ComputerSkillDuration></ComputerSkillDuration>
+ 		</ComputerSkill>
+		<ComputerSkill>
+ 			<ComputerSkillName>Solaris</ComputerSkillName>
+ 			<ComputerSkillDuration></ComputerSkillDuration>
+ 		</ComputerSkill>
+		<ComputerSkill>
+ 			<ComputerSkillName>OSE</ComputerSkillName>
+ 			<ComputerSkillDuration>1</ComputerSkillDuration>
+ 		</ComputerSkill>
+		<ComputerSkill>
+ 			<ComputerSkillName>TCP/IP</ComputerSkillName>
+ 			<ComputerSkillDuration></ComputerSkillDuration>
+ 		</ComputerSkill>
+		<ComputerSkill>
+ 			<ComputerSkillName>HTTP</ComputerSkillName>
+ 			<ComputerSkillDuration>1</ComputerSkillDuration>
+ 		</ComputerSkill>
+		<ComputerSkill>
+ 			<ComputerSkillName>REST</ComputerSkillName>
+ 			<ComputerSkillDuration>1</ComputerSkillDuration>
+ 		</ComputerSkill>
+		<ComputerSkill>
+ 			<ComputerSkillName>SOAP</ComputerSkillName>
+ 			<ComputerSkillDuration>2</ComputerSkillDuration>
+ 		</ComputerSkill>
+		<ComputerSkill>
+ 			<ComputerSkillName>OMA-DS</ComputerSkillName>
+ 			<ComputerSkillDuration>1</ComputerSkillDuration>
+ 		</ComputerSkill>
+		<ComputerSkill>
+ 			<ComputerSkillName>OMA- DM</ComputerSkillName>
+ 			<ComputerSkillDuration></ComputerSkillDuration>
+ 		</ComputerSkill>
+		<ComputerSkill>
+ 			<ComputerSkillName>SMPP</ComputerSkillName>
+ 			<ComputerSkillDuration>1</ComputerSkillDuration>
+ 		</ComputerSkill>
+		<ComputerSkill>
+ 			<ComputerSkillName>OMA-CP</ComputerSkillName>
+ 			<ComputerSkillDuration></ComputerSkillDuration>
+ 		</ComputerSkill>
+		<ComputerSkill>
+ 			<ComputerSkillName>RTSP</ComputerSkillName>
+ 			<ComputerSkillDuration></ComputerSkillDuration>
+ 		</ComputerSkill>
+		<ComputerSkill>
+ 			<ComputerSkillName>Javascript</ComputerSkillName>
+ 			<ComputerSkillDuration>3</ComputerSkillDuration>
+ 		</ComputerSkill>
+		<ComputerSkill>
+ 			<ComputerSkillName>Java</ComputerSkillName>
+ 			<ComputerSkillDuration>6</ComputerSkillDuration>
+ 		</ComputerSkill>
+		<ComputerSkill>
+ 			<ComputerSkillName>C</ComputerSkillName>
+ 			<ComputerSkillDuration>1</ComputerSkillDuration>
+ 		</ComputerSkill>
+		<ComputerSkill>
+ 			<ComputerSkillName>C++</ComputerSkillName>
+ 			<ComputerSkillDuration>3</ComputerSkillDuration>
+ 		</ComputerSkill>
+		<ComputerSkill>
+ 			<ComputerSkillName>Eclipse</ComputerSkillName>
+ 			<ComputerSkillDuration></ComputerSkillDuration>
+ 		</ComputerSkill>
+		<ComputerSkill>
+ 			<ComputerSkillName>Sublime</ComputerSkillName>
+ 			<ComputerSkillDuration></ComputerSkillDuration>
+ 		</ComputerSkill>
+		<ComputerSkill>
+ 			<ComputerSkillName>Visual Studio</ComputerSkillName>
+ 			<ComputerSkillDuration></ComputerSkillDuration>
+ 		</ComputerSkill>
+		<ComputerSkill>
+ 			<ComputerSkillName>Hansoft</ComputerSkillName>
+ 			<ComputerSkillDuration></ComputerSkillDuration>
+ 		</ComputerSkill>
+		<ComputerSkill>
+ 			<ComputerSkillName>GIT</ComputerSkillName>
+ 			<ComputerSkillDuration></ComputerSkillDuration>
+ 		</ComputerSkill>
+		<ComputerSkill>
+ 			<ComputerSkillName>SVN</ComputerSkillName>
+ 			<ComputerSkillDuration></ComputerSkillDuration>
+ 		</ComputerSkill>
+		<ComputerSkill>
+ 			<ComputerSkillName>CVS</ComputerSkillName>
+ 			<ComputerSkillDuration></ComputerSkillDuration>
+ 		</ComputerSkill>
+		<ComputerSkill>
+ 			<ComputerSkillName>Clearcase</ComputerSkillName>
+ 			<ComputerSkillDuration></ComputerSkillDuration>
+ 		</ComputerSkill>
+		<ComputerSkill>
+ 			<ComputerSkillName>Jenkins</ComputerSkillName>
+ 			<ComputerSkillDuration></ComputerSkillDuration>
+ 		</ComputerSkill>
+		<ComputerSkill>
+ 			<ComputerSkillName>Anthill</ComputerSkillName>
+ 			<ComputerSkillDuration></ComputerSkillDuration>
+ 		</ComputerSkill>
+		<ComputerSkill>
+ 			<ComputerSkillName>Bugzilla</ComputerSkillName>
+ 			<ComputerSkillDuration></ComputerSkillDuration>
+ 		</ComputerSkill>
+		<ComputerSkill>
+ 			<ComputerSkillName>Clearquest</ComputerSkillName>
+ 			<ComputerSkillDuration></ComputerSkillDuration>
+ 		</ComputerSkill>
+		<ComputerSkill>
+ 			<ComputerSkillName>CME</ComputerSkillName>
+ 			<ComputerSkillDuration></ComputerSkillDuration>
+ 		</ComputerSkill>
+		<ComputerSkill>
+ 			<ComputerSkillName>Ant</ComputerSkillName>
+ 			<ComputerSkillDuration></ComputerSkillDuration>
+ 		</ComputerSkill>
+		<ComputerSkill>
+ 			<ComputerSkillName>Maven</ComputerSkillName>
+ 			<ComputerSkillDuration>4</ComputerSkillDuration>
+ 		</ComputerSkill>
+		<ComputerSkill>
+ 			<ComputerSkillName>PostgreSQL</ComputerSkillName>
+ 			<ComputerSkillDuration>3</ComputerSkillDuration>
+ 		</ComputerSkill>
+		<ComputerSkill>
+ 			<ComputerSkillName>MongoDB</ComputerSkillName>
+ 			<ComputerSkillDuration></ComputerSkillDuration>
+ 		</ComputerSkill>
+		<ComputerSkill>
+ 			<ComputerSkillName>MySQL</ComputerSkillName>
+ 			<ComputerSkillDuration></ComputerSkillDuration>
+ 		</ComputerSkill>
+		<ComputerSkill>
+ 			<ComputerSkillName>Oracle</ComputerSkillName>
+ 			<ComputerSkillDuration>1</ComputerSkillDuration>
+ 		</ComputerSkill>
+		<ComputerSkill>
+ 			<ComputerSkillName>BackboneJS</ComputerSkillName>
+ 			<ComputerSkillDuration>3</ComputerSkillDuration>
+ 		</ComputerSkill>
+		<ComputerSkill>
+ 			<ComputerSkillName>GWT</ComputerSkillName>
+ 			<ComputerSkillDuration>3</ComputerSkillDuration>
+ 		</ComputerSkill>
+		<ComputerSkill>
+ 			<ComputerSkillName>Scrum</ComputerSkillName>
+ 			<ComputerSkillDuration>1</ComputerSkillDuration>
+ 		</ComputerSkill>
+		<ComputerSkill>
+ 			<ComputerSkillName>ASP.NET</ComputerSkillName>
+ 			<ComputerSkillDuration>1</ComputerSkillDuration>
+ 		</ComputerSkill>
+		<ComputerSkill>
+ 			<ComputerSkillName>LDAP</ComputerSkillName>
+ 			<ComputerSkillDuration>1</ComputerSkillDuration>
+ 		</ComputerSkill>
+		<ComputerSkill>
+ 			<ComputerSkillName>Java ME</ComputerSkillName>
+ 			<ComputerSkillDuration>2</ComputerSkillDuration>
+ 		</ComputerSkill>
+		<ComputerSkill>
+ 			<ComputerSkillName>Lauterbach</ComputerSkillName>
+ 			<ComputerSkillDuration>1</ComputerSkillDuration>
+ 		</ComputerSkill>
+		<ComputerSkill>
+ 			<ComputerSkillName>TCP</ComputerSkillName>
+ 			<ComputerSkillDuration>1</ComputerSkillDuration>
+ 		</ComputerSkill>
+		<ComputerSkill>
+ 			<ComputerSkillName>IP</ComputerSkillName>
+ 			<ComputerSkillDuration>1</ComputerSkillDuration>
+ 		</ComputerSkill>
+		<ComputerSkill>
+ 			<ComputerSkillName>Hibernate</ComputerSkillName>
+ 			<ComputerSkillDuration>1</ComputerSkillDuration>
+ 		</ComputerSkill>
+		<ComputerSkill>
+ 			<ComputerSkillName>JDBC</ComputerSkillName>
+ 			<ComputerSkillDuration>1</ComputerSkillDuration>
+ 		</ComputerSkill>
+		<ComputerSkill>
+ 			<ComputerSkillName>JSP</ComputerSkillName>
+ 			<ComputerSkillDuration>1</ComputerSkillDuration>
+ 		</ComputerSkill>
+		<ComputerSkill>
+ 			<ComputerSkillName>Servlet</ComputerSkillName>
+ 			<ComputerSkillDuration>1</ComputerSkillDuration>
+ 		</ComputerSkill>
+		<ComputerSkill>
+ 			<ComputerSkillName>Apache Tomcat</ComputerSkillName>
+ 			<ComputerSkillDuration>1</ComputerSkillDuration>
+ 		</ComputerSkill>
+		<ComputerSkill>
+ 			<ComputerSkillName>OMA-DM</ComputerSkillName>
+ 			<ComputerSkillDuration>1</ComputerSkillDuration>
+ 		</ComputerSkill>
+		<ComputerSkill>
+ 			<ComputerSkillName>Struts</ComputerSkillName>
+ 			<ComputerSkillDuration>1</ComputerSkillDuration>
+ 		</ComputerSkill>
+		<ComputerSkill>
+ 			<ComputerSkillName>Weblogic</ComputerSkillName>
+ 			<ComputerSkillDuration>1</ComputerSkillDuration>
+ 		</ComputerSkill>
+
+	</ComputerSkills>
+	<LanguageSkills>
+		<LanguageSkill>
+			<LanguageSkillCode>SV</LanguageSkillCode>
+			<LanguageSkillCodeDescription>Swedish</LanguageSkillCodeDescription>
+			<LanguageProficiencyCode>5</LanguageProficiencyCode>
+			<LanguageProficiencyCodeDescription>(Near) Native</LanguageProficiencyCodeDescription>
+		</LanguageSkill>
+		<LanguageSkill>
+			<LanguageSkillCode>EN</LanguageSkillCode>
+			<LanguageSkillCodeDescription>English</LanguageSkillCodeDescription>
+			<LanguageProficiencyCode>5</LanguageProficiencyCode>
+			<LanguageProficiencyCodeDescription>(Near) Native</LanguageProficiencyCodeDescription>
+		</LanguageSkill>
+		<LanguageSkill>
+			<LanguageSkillCode>DE</LanguageSkillCode>
+			<LanguageSkillCodeDescription>German</LanguageSkillCodeDescription>
+			<LanguageProficiencyCode>3</LanguageProficiencyCode>
+			<LanguageProficiencyCodeDescription>Intermediate</LanguageProficiencyCodeDescription>
+		</LanguageSkill>
+
+	</LanguageSkills>
+	<SoftSkills>
+		<SoftSkill>
+			<SoftSkillName></SoftSkillName>
+		</SoftSkill>
+
+	</SoftSkills>
+</Skills>
+<Other>
+	<Hobbies>
+		<Hobby>photography</Hobby>
+		<Hobby>travelling</Hobby>
+		<Hobby>sports</Hobby>
+		<Hobby>skiing</Hobby>
+		<Hobby>diving</Hobby>
+		<Hobby>cycling</Hobby>
+		<Hobby>sailing</Hobby>
+
+	</Hobbies>
+	<References>
+		<Reference></Reference>
+	</References>
+</Other>
+<CustomArea>
+	<CVTitle></CVTitle>
+	<TotalExperienceYears>16</TotalExperienceYears>
+	<CurrentJob>Developer, Partner</CurrentJob>
+	<CurrentEmployer>FF Youcruit AB</CurrentEmployer>
+	<Last3Experiences>Senior Consultant, Software Engineer / Project Leader, Network Technician</Last3Experiences>
+	<HighestEducationLevelCode>5</HighestEducationLevelCode>
+	<HighestEducationLevelCodeDescription>Master</HighestEducationLevelCodeDescription>
+	<SalaryCode></SalaryCode>
+	<SalaryCodeDescription></SalaryCodeDescription>
+	<CandidateStatusCode></CandidateStatusCode>
+	<CandidateStatusCodeDescription></CandidateStatusCodeDescription>
+	<AvailabilityCode></AvailabilityCode>
+	<AvailabilityCodeDescription></AvailabilityCodeDescription>
+	<CVComment></CVComment>
+	<CandidatePermission></CandidatePermission>
+	<ExternalID></ExternalID>
+	<ProfilePicture>
+		<Base64Content></Base64Content>
+		<Filename></Filename>
+		<ContentType></ContentType>
+	</ProfilePicture>
+	<ExtraInfo>
+			<TrxmlID>32015343</TrxmlID>
+		<ExtraInfo1></ExtraInfo1>
+		<ExtraInfo2></ExtraInfo2>
+		<ExtraInfo3></ExtraInfo3>
+		<ExtraInfo4></ExtraInfo4>		
+	</ExtraInfo>
+</CustomArea>
+<DocumentText>
+CV
+
+                    CHRISTIAN EKSTRAND
+
+
+
+EXPERIENCE
+                         2012-FF         Youcruit AB                               Malmö, Sweden
+                         Developer, Partner
+                         **     Developed and arcitechted Frontend, developed backend.
+                         **     Part of the team that brought Youcruit from an idea to an up and
+                           running business.
+
+                         2010-FF         Softhouse AB                              Malmö, Sweden
+                         Senior Consultant
+                         **     Worked as an Agile Coach focusing on making Scrum and Kanban work
+                                for teams.
+                         **     Software development and Lean consultant. Worked with developing
+                                excellent software and helping organizations improve their performance.
+
+                         2005-2010       Tactel AB                                 Malmö, Sweden
+                         Software Engineer / Project Leader
+                         **     Worked closely with fellow Engineers on a large system consisting of
+                                Servers and clients throughout the lifecycle. Delivered solutions for
+                                several customers including setting up and running operations.
+                                Participated in product management with roadmap and planning for new
+                                functionality.
+                         **     Managed a multi-project environment with teams and team members
+                                located in Malmö, Kiev, Huskvarna and Umeå. Customers were mostly
+                                mobile network operators located in the EMEA and APAC regions.
+                                Brought the release cycle down from 6 - 12 months to 2 - 4 weeks.
+                                Worked in close cooperation with application planners and project
+                                owners.
+                         **     Brought derailed high profile projects back on track. The project was
+                                initiated at the customers Tokyo office and included mobile phone
+                                applications implementing several DLNA use cases.
+                         **     Coordinated efforts to raise the quality of a large embedded system.
+                         **     Developed applications in a variety of environments ranging from
+                                embedded C to Java EE.
+
+                         2005            Ericsson AB                                 Lund, Sweden
+                         Master&apos;s Thesis
+                         **     Developed a method for estimation of software performance
+                                requirements in the EMP platform with focus on multimedia software.
+                                The original task was to create a simulation environment and part of the
+                                findings was that this was not feasible.
+
+
+
+
+                         1998 - 2003     Plastal AB                           Simrishamn, Sweden
+                         Network Technician during summer holidays
+                         **     Responsible for operations and maintenance of servers, workstations
+                                and networks. The environment was based on Windows NT and 2000,
+                                though Linux, HP-UX, IBM AIX and IBM OS/400 were also present.
+                         **     Developed support applications in Visual Basic.
+
+                         2000            Internet Pro AB                             Lund, Sweden
+                         Network Technician
+                         **     Consultant working with operations of Windows NT server and client
+                                systems, Linux firewalls and Cisco routers.
+                         **     Development and consulting of network surveillance applications mainly
+                                written in Perl.
+                         **     Installation and configuration of Microsoft IIS and Apache web servers.
+
+COURSES
+                         2013            Anki Nilsson Kommunikationsträning        Malmö, Sweden
+                         Presentationsteknik
+                         2013            Softhouse Education                       Malmö, Sweden
+                         Certified Scrum Product Owner
+                         2010            Indigo Management                      Borgholm, Sweden
+                         UGL - Understanding Group and Leadership
+                         2009            Crisp                                  Stockholm, Sweden
+                         Deep Lean course given by Jeff Sutherland, Mary Poppendieck, Tom
+                                Poppendieck &amp; Henrik Kniberg
+                         2008            Scrum Alliance                         Stockholm, Sweden
+                         Certified Scrum Master Course given by Jeff Sutherland and Henrik
+                                Kniberg
+                         2007            Semcon Project Management                   Lund, Sweden
+                         Project planning and management
+                         2006            aWaves Academy                            Malmö, Sweden
+                         Mobile Networks with focus on service implementation
+
+
+EDUCATION
+
+                         2002-2005       Lund University                             Lund, Sweden
+                         Master of Science, Information and Communication Technology
+                         2001-2002       Lund University                             Lund, Sweden
+                         Informatics 40p design and development
+                         1999-2000       Lund University                             Lund, Sweden
+                         Computer Science 40p courses
+                         1996 - 1999     Friaborgsskolan                      Simrishamn, Sweden
+                         Science programme with technical orientation
+
+
+
+
+COMPETENCES
+                         Methods                Scrum, Kanban, Lean, Critical Chain
+
+                         Platforms              Linux, Android, Windows, Solaris, OSE
+
+                         Protocols              TCP/IP, HTTP, REST, SOAP, OMA-DS, OMA-
+                                                DM, SMPP, OMA-CP, RTSP
+
+                         Languages              Javascript, Java, C, C++
+
+                         Tools                  Eclipse, Sublime, Visual Studio, Hansoft, GIT,
+                                                SVN, CVS, Clearcase, Jenkins, Anthill, Bugzilla,
+                                                Clearquest, CME, Ant, Maven
+
+                         Databases              PostgreSQL, MongoDB, MySQL, Oracle
+
+
+VOLOUNTEER WORK
+
+                         2002 - 2005     Sydskånska Nationen                         Lund, Sweden
+                         Member of the Seniorskollegium
+                         2002            Lundakarnevalen                             Lund, Sweden
+                         Network Manager
+                         2001 - 2002     Sydskånska Nationen                         Lund, Sweden
+                         PR and IT Manager
+                         1998 - 1999     Friaborgsskolan                      Simrishamn, Sweden
+                         Founded the computer club
+
+LANGUAGES
+                         Swedish      Fluent in spoken and written language. Native language.
+
+                         English      Fluent in spoken and written language.
+
+                         German       Intermediate in spoken and written language.
+
+
+PERSONAL
+
+                         Swedish drivers license class B
+
+                         Interests include photography, travelling and sports such as skiing, diving,
+                         cycling, sailing.
+
+
+
+
+COMPLETE PROJECT LIST
+
+
+                         Softhouse 2013 9 Months
+                                Techniques: Scrum, Kanban, Five Dysfunctions of a Team,
+                                Teambuilding
+                                Role: Agile Coach
+                                Worked as an Agile Coach for a Large Enterprise introducing Agile and
+                                Lean ways of working. Personally trained, coached and ran team building
+                                excersizes for more than 20 teams. Coached and educated managers. Set
+                                up and ran a program for training to be coaches.
+
+                         Youcruit 2012 Ongoing
+                                Techniques: Javascript, Java, BackboneJS, JQuery, Maven, PostgreSQL,
+                                MongoDB, REST,
+                                Role: Developer
+                                Developed the frontend and backend for a video CV service. A
+                                responsive one page javascript state of the art web application.
+
+                         Softhouse 2011 24 Months
+                                Techniques: Java, Javascript, GWT, C++, Python
+                                Role: Developer
+                                Agile developer of web management interface against a building
+                                automation system. Architected major updates to system regarding
+                                functionality and security.
+
+                         Side Project 2011 6 Months
+                                Techniques: Java, Javascript, JQuery, Maven
+                                Role: Developer
+                                Developed a social marketing solution for a startup. The solution was a
+                                module that was included in the checkout flow of webshops.
+
+                         Softhouse 2010 3 Months
+                                Techniques: Android, OSE
+                                Role: Software Project Manager
+                                Managing several software projects against a customer in Japan at a
+                                mobile phone platform and modem vendor in the telecommunications
+                                industry. Responsible for deliveries and development of software directly
+                                towards the customer with teams at several locations in Europe and
+                                Japan.
+
+                         Softhouse 2010 2 Months
+                                Techniques: Scrum, Android, ASP.NET, Maven, Hudson
+                                Role: Developer
+                                Developed an Android client application against an existing ASP.NET
+                                backend system. Managed implementation of Scrum within the team, set
+                                the application architecture, set up and implemented continuous
+                                integration and TDD. Debugged the backend system. Focused on
+                                optimizing the system with usability for the end user as the main goal.
+
+                         Tactel 2009     12 Months
+                                Techniques: Scrum, Kanban, Java, OMA-DS
+                                Role: Program Manager
+                                Led several development teams, an operations department and project
+                                Managers. Worked with customization projects for telecom operators
+                                around the globe as well as r&amp;d. Took active part in technical problem
+
+
+
+
+                                solving and performance optimization. Brought the release cycle down
+                                from 12 months to 4 weeks.
+
+                         Tactel 2009     1 Month
+                                Techniques: SOAP, REST, Java, LDAP
+                                Role: Developer, System Engineer
+                                Set up, configured and customized a CMS system based on the Alfresco
+                                open source system.
+
+                         Tactel 2008     12 Months
+                                Techniques: Scrum, Java ME, DLNA
+                                Role: Project leader, Scrum Master
+                                Led several teams developing Java ME based multimedia applications for
+                                a major mobile handset manufacturer. Was responsible for handing over
+                                projects to teams in Brazil. Brought back a project in crisis from Tokyo.
+
+                         Tactel 2007     14 months
+                                Techniques: Critical Chain, Scrum, Java ME, GPS, Accelerometer
+                                Role: Project Leader, Team Leader
+                                Brought several Java ME based applications in the sports / active
+                                lifestyle segment to market for a major mobile handset manufacturer.
+                                Worked with different parties throughout the lifecycle. Introduced
+                                Scrum when the project was &quot;doomed&quot; and brought it back on schedule.
+
+                         Tactel 2007     6 months
+                                Techniques: C, Java, Lauterbach, TCP/IP, OSE
+                                Role: Developer
+                                Worked as a problem solving consultant at a major mobile handset
+                                manufacturer. Coordinated efforts between several suppliers and
+                                different groups within the customer&apos;s organization.
+
+                         Tactel 2006     12 month
+                                Techniques: Java, SOAP, OMA-DS, HTTP, Hibernate, JDBC, JSP,
+                                Servlet, Apache Tomcat
+                                Role: Developer, Architect
+                                Architected a major rewrite of an OMA-DS server suite. Developed
+                                SOAP based public API:s. Optimized applications across the software
+                                stack including web client code and database queries.
+
+                         Tactel 2006     3 months
+                                Techniques: Java EE, HTTP, SMPP, OMA-DM, SOAP, Struts, Oracle,
+                                Weblogic
+                                Role: Developer
+                                Set up an OMA-DM server and built a demo application on top of it for
+                                the 3 GSM fair.
+
+                         Tactel 2005     3 months
+                                Techniques: Java ME
+                                Role: Developer
+                                Developed a stunning data visualization application for a major mobile
+                                handset manufacturer.
+
+
+
+
+</DocumentText>
+<DocumentHtml>
+&lt;div&gt;&lt;div style=&quot;position: relative;&quot;&gt;&lt;p&gt; &lt;/p&gt;&lt;div style=&quot;position:absolute;top:96px;left:365px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:25pt;white-space:nowrap;&quot;&gt;CV
+&lt;/div&gt;
+&lt;div style=&quot;position:absolute;top:140px;left:189px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:18pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-496&quot;&gt;CHRISTIAN EKSTRAND&lt;/span&gt;
+&lt;/div&gt;
+&lt;div style=&quot;position:absolute;top:217px;left:71px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;EXPERIENCE
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:238px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-305&quot;&gt;&lt;span class=&quot;trxml-357&quot;&gt;2012&lt;/span&gt;–&lt;span class=&quot;trxml-1342&quot;&gt;&lt;span class=&quot;trxml-398&quot;&gt;FF      
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-1342&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-305&quot;&gt;&lt;span class=&quot;trxml-398&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:238px;left:312px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-305&quot;&gt;&lt;span class=&quot;trxml-398&quot;&gt;&lt;span class=&quot;trxml-1342&quot;&gt;Youcruit AB&lt;/span&gt;                       
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-305&quot;&gt;&lt;span class=&quot;trxml-398&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:238px;left:556px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-305&quot;&gt;&lt;span class=&quot;trxml-1343&quot;&gt;&lt;span class=&quot;trxml-398&quot;&gt;Malmö, Sweden&lt;/span&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-305&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:257px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;i&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-305&quot;&gt;&lt;span class=&quot;trxml-377&quot;&gt;Developer, Partner&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/i&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-305&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-305&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:282px;left:216px;font-size:6pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-305&quot;&gt;●● 
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-305&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:277px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-305&quot;&gt;&lt;span class=&quot;trxml-423&quot;&gt;Developed and arcitechted Frontend, developed backend&lt;/span&gt;.
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-305&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:303px;left:216px;font-size:6pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-305&quot;&gt;●● 
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-305&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:297px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-305&quot;&gt;&lt;span class=&quot;trxml-424&quot;&gt;Part of the team that brought Youcruit from an idea to an up and
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-305&quot;&gt;&lt;span class=&quot;trxml-424&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:314px;left:231px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-305&quot;&gt;&lt;span class=&quot;trxml-424&quot;&gt;running business&lt;/span&gt;&lt;/span&gt;.
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:339px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-307&quot;&gt;&lt;span class=&quot;trxml-358&quot;&gt;2010&lt;/span&gt;–&lt;span class=&quot;trxml-1344&quot;&gt;&lt;span class=&quot;trxml-399&quot;&gt;FF      
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-1344&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-307&quot;&gt;&lt;span class=&quot;trxml-399&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:339px;left:312px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-307&quot;&gt;&lt;span class=&quot;trxml-399&quot;&gt;&lt;span class=&quot;trxml-1344&quot;&gt;Softhouse AB&lt;/span&gt;                      
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-307&quot;&gt;&lt;span class=&quot;trxml-399&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:339px;left:556px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-307&quot;&gt;&lt;span class=&quot;trxml-1345&quot;&gt;&lt;span class=&quot;trxml-399&quot;&gt;Malmö, Sweden&lt;/span&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-307&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:358px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;i&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-307&quot;&gt;&lt;span class=&quot;trxml-378&quot;&gt;Senior Consultant&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/i&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-307&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-307&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:383px;left:216px;font-size:6pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-307&quot;&gt;●● 
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-307&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:378px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-307&quot;&gt;&lt;span class=&quot;trxml-425&quot;&gt;Worked as an Agile Coach focusing on making Scrum and Kanban work
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-307&quot;&gt;&lt;span class=&quot;trxml-425&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:394px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-307&quot;&gt;&lt;span class=&quot;trxml-425&quot;&gt;for teams.
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-307&quot;&gt;&lt;span class=&quot;trxml-425&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:420px;left:216px;font-size:6pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-307&quot;&gt;&lt;span class=&quot;trxml-425&quot;&gt;●● 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-307&quot;&gt;&lt;span class=&quot;trxml-425&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:414px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-307&quot;&gt;&lt;span class=&quot;trxml-425&quot;&gt;Software development and Lean consultant. Worked with developing
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-307&quot;&gt;&lt;span class=&quot;trxml-425&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:431px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-307&quot;&gt;&lt;span class=&quot;trxml-425&quot;&gt;excellent software and helping organizations improve their performance&lt;/span&gt;&lt;/span&gt;.
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:462px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-309&quot;&gt;&lt;span class=&quot;trxml-359&quot;&gt;2005–2010&lt;/span&gt;    
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-309&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:462px;left:312px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-309&quot;&gt;&lt;span class=&quot;trxml-400&quot;&gt;&lt;span class=&quot;trxml-1346&quot;&gt;Tactel AB&lt;/span&gt;                          
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-309&quot;&gt;&lt;span class=&quot;trxml-400&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:462px;left:556px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-309&quot;&gt;&lt;span class=&quot;trxml-1347&quot;&gt;&lt;span class=&quot;trxml-400&quot;&gt;Malmö, Sweden&lt;/span&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-309&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:482px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;i&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-309&quot;&gt;&lt;span class=&quot;trxml-379&quot;&gt;Software Engineer / Project Leader&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/i&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-309&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-309&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:507px;left:216px;font-size:6pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-309&quot;&gt;●● 
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-309&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:501px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-309&quot;&gt;&lt;span class=&quot;trxml-426&quot;&gt;Worked closely with fellow Engineers on a large system consisting of
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-309&quot;&gt;&lt;span class=&quot;trxml-426&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:518px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-309&quot;&gt;&lt;span class=&quot;trxml-426&quot;&gt;Servers and clients throughout the lifecycle. Delivered solutions for
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-309&quot;&gt;&lt;span class=&quot;trxml-426&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:534px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-309&quot;&gt;&lt;span class=&quot;trxml-426&quot;&gt;several customers including setting up and running operations.
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-309&quot;&gt;&lt;span class=&quot;trxml-426&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:551px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-309&quot;&gt;&lt;span class=&quot;trxml-426&quot;&gt;Participated in product management with roadmap and planning for new
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-309&quot;&gt;&lt;span class=&quot;trxml-426&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:567px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-309&quot;&gt;&lt;span class=&quot;trxml-426&quot;&gt;functionality.
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-309&quot;&gt;&lt;span class=&quot;trxml-426&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:593px;left:216px;font-size:6pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-309&quot;&gt;&lt;span class=&quot;trxml-426&quot;&gt;●● 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-309&quot;&gt;&lt;span class=&quot;trxml-426&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:588px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-309&quot;&gt;&lt;span class=&quot;trxml-426&quot;&gt;Managed a multi-project environment with teams and team members
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-309&quot;&gt;&lt;span class=&quot;trxml-426&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:604px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-309&quot;&gt;&lt;span class=&quot;trxml-426&quot;&gt;located in Malmö, Kiev, Huskvarna and Umeå. Customers were mostly
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-309&quot;&gt;&lt;span class=&quot;trxml-426&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:621px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-309&quot;&gt;&lt;span class=&quot;trxml-426&quot;&gt;mobile network operators located in the EMEA and APAC regions.
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-309&quot;&gt;&lt;span class=&quot;trxml-426&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:637px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-309&quot;&gt;&lt;span class=&quot;trxml-426&quot;&gt;Brought the release cycle down from 6 – 12 months to 2 – 4 weeks.
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-309&quot;&gt;&lt;span class=&quot;trxml-426&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:654px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-309&quot;&gt;&lt;span class=&quot;trxml-426&quot;&gt;Worked in close cooperation with application planners and project
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-309&quot;&gt;&lt;span class=&quot;trxml-426&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:670px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-309&quot;&gt;&lt;span class=&quot;trxml-426&quot;&gt;owners&lt;/span&gt;.
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-309&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:696px;left:216px;font-size:6pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-309&quot;&gt;●● 
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-309&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:691px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-309&quot;&gt;&lt;span class=&quot;trxml-427&quot;&gt;Brought derailed high profile projects back on track. The project was
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-309&quot;&gt;&lt;span class=&quot;trxml-427&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:707px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-309&quot;&gt;&lt;span class=&quot;trxml-427&quot;&gt;initiated at the customers Tokyo office and included mobile phone
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-309&quot;&gt;&lt;span class=&quot;trxml-427&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:724px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-309&quot;&gt;&lt;span class=&quot;trxml-427&quot;&gt;applications implementing several DLNA use cases.
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-309&quot;&gt;&lt;span class=&quot;trxml-427&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:750px;left:216px;font-size:6pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-309&quot;&gt;&lt;span class=&quot;trxml-427&quot;&gt;●● 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-309&quot;&gt;&lt;span class=&quot;trxml-427&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:744px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-309&quot;&gt;&lt;span class=&quot;trxml-427&quot;&gt;Coordinated efforts to raise the quality of a large embedded system.
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-309&quot;&gt;&lt;span class=&quot;trxml-427&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:770px;left:216px;font-size:6pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-309&quot;&gt;&lt;span class=&quot;trxml-427&quot;&gt;●● 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-309&quot;&gt;&lt;span class=&quot;trxml-427&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:765px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-309&quot;&gt;&lt;span class=&quot;trxml-427&quot;&gt;Developed applications in a variety of environments ranging from
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-309&quot;&gt;&lt;span class=&quot;trxml-427&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:781px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-309&quot;&gt;&lt;span class=&quot;trxml-427&quot;&gt;embedded C to Java EE.&lt;/span&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:816px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-311&quot;&gt;&lt;span class=&quot;trxml-360&quot;&gt;2005&lt;/span&gt;         
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-311&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:816px;left:312px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-311&quot;&gt;&lt;span class=&quot;trxml-401&quot;&gt;&lt;span class=&quot;trxml-1348&quot;&gt;Ericsson AB&lt;/span&gt;                         
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-311&quot;&gt;&lt;span class=&quot;trxml-401&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:816px;left:566px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-311&quot;&gt;&lt;span class=&quot;trxml-1349&quot;&gt;&lt;span class=&quot;trxml-401&quot;&gt;Lund, Sweden&lt;/span&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-311&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:836px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;i&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-311&quot;&gt;&lt;span class=&quot;trxml-428&quot;&gt;Master&amp;apos;s Thesis&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/i&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-311&quot;&gt;&lt;span class=&quot;trxml-428&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-311&quot;&gt;&lt;span class=&quot;trxml-428&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:861px;left:216px;font-size:6pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-311&quot;&gt;&lt;span class=&quot;trxml-428&quot;&gt;●● 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-311&quot;&gt;&lt;span class=&quot;trxml-428&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:855px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-311&quot;&gt;&lt;span class=&quot;trxml-428&quot;&gt;Developed a method for estimation of software performance
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-311&quot;&gt;&lt;span class=&quot;trxml-428&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:872px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-311&quot;&gt;&lt;span class=&quot;trxml-428&quot;&gt;requirements in the EMP platform with focus on multimedia software.
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-311&quot;&gt;&lt;span class=&quot;trxml-428&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:888px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-311&quot;&gt;&lt;span class=&quot;trxml-428&quot;&gt;The original task was to create a simulation environment and part of the
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-311&quot;&gt;&lt;span class=&quot;trxml-428&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:905px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-311&quot;&gt;&lt;span class=&quot;trxml-428&quot;&gt;findings was that this was not feasible&lt;/span&gt;&lt;/span&gt;. 
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1122px;left:12px;white-space:nowrap;&quot;&gt;&lt;hr&gt;&lt;span class=&quot;trxml-3&quot;&gt; &lt;/span&gt;&lt;/hr&gt;&lt;span class=&quot;trxml-3&quot;&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1232px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-313&quot;&gt;&lt;span class=&quot;trxml-361&quot;&gt;1998 - 2003&lt;/span&gt;    
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-313&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1232px;left:312px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-313&quot;&gt;&lt;span class=&quot;trxml-402&quot;&gt;&lt;span class=&quot;trxml-1350&quot;&gt;Plastal AB&lt;/span&gt;                      
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-313&quot;&gt;&lt;span class=&quot;trxml-402&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1232px;left:529px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-313&quot;&gt;&lt;span class=&quot;trxml-1351&quot;&gt;&lt;span class=&quot;trxml-402&quot;&gt;Simrishamn, Sweden&lt;/span&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-313&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1251px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;i&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-313&quot;&gt;&lt;span class=&quot;trxml-380&quot;&gt;Network Technician&lt;/span&gt; during &lt;span class=&quot;trxml-362&quot;&gt;summer&lt;/span&gt; &lt;span class=&quot;trxml-429&quot;&gt;holidays&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/i&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-313&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-313&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1276px;left:216px;font-size:6pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-313&quot;&gt;●● 
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-313&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1271px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-313&quot;&gt;&lt;span class=&quot;trxml-430&quot;&gt;Responsible for operations and maintenance of servers, workstations
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-313&quot;&gt;&lt;span class=&quot;trxml-430&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1288px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-313&quot;&gt;&lt;span class=&quot;trxml-430&quot;&gt;and networks. The environment was based on &lt;span class=&quot;trxml-55&quot;&gt;Windows NT and 2000&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-313&quot;&gt;&lt;span class=&quot;trxml-430&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1304px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-313&quot;&gt;&lt;span class=&quot;trxml-430&quot;&gt;though &lt;span class=&quot;trxml-56&quot;&gt;Linux&lt;/span&gt;, &lt;span class=&quot;trxml-57&quot;&gt;HP-UX&lt;/span&gt;, &lt;span class=&quot;trxml-58&quot;&gt;IBM AIX&lt;/span&gt; and &lt;span class=&quot;trxml-59&quot;&gt;IBM OS/400&lt;/span&gt; were also present.
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-313&quot;&gt;&lt;span class=&quot;trxml-430&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1330px;left:216px;font-size:6pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-313&quot;&gt;&lt;span class=&quot;trxml-430&quot;&gt;●● 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-313&quot;&gt;&lt;span class=&quot;trxml-430&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1324px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-313&quot;&gt;&lt;span class=&quot;trxml-430&quot;&gt;Developed support applications in &lt;span class=&quot;trxml-60&quot;&gt;Visual Basic&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;.
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1355px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-315&quot;&gt;&lt;span class=&quot;trxml-363&quot;&gt;2000&lt;/span&gt;         
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-315&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1355px;left:312px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-315&quot;&gt;&lt;span class=&quot;trxml-403&quot;&gt;&lt;span class=&quot;trxml-1352&quot;&gt;Internet Pro AB&lt;/span&gt;                      
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-315&quot;&gt;&lt;span class=&quot;trxml-403&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1355px;left:566px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-315&quot;&gt;&lt;span class=&quot;trxml-1353&quot;&gt;&lt;span class=&quot;trxml-403&quot;&gt;Lund, Sweden&lt;/span&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-315&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1375px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;i&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-315&quot;&gt;&lt;span class=&quot;trxml-381&quot;&gt;Network Technician&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/i&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-315&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-315&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1400px;left:216px;font-size:6pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-315&quot;&gt;●● 
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-315&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1395px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-315&quot;&gt;&lt;span class=&quot;trxml-431&quot;&gt;Consultant working with operations of &lt;span class=&quot;trxml-61&quot;&gt;Windows NT server&lt;/span&gt; and client
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-315&quot;&gt;&lt;span class=&quot;trxml-431&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1411px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-315&quot;&gt;&lt;span class=&quot;trxml-431&quot;&gt;systems, &lt;span class=&quot;trxml-62&quot;&gt;Linux firewalls&lt;/span&gt; and &lt;span class=&quot;trxml-63&quot;&gt;Cisco routers&lt;/span&gt;.
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-315&quot;&gt;&lt;span class=&quot;trxml-431&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1437px;left:216px;font-size:6pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-315&quot;&gt;&lt;span class=&quot;trxml-431&quot;&gt;●● 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-315&quot;&gt;&lt;span class=&quot;trxml-431&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1432px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-315&quot;&gt;&lt;span class=&quot;trxml-431&quot;&gt;Development and consulting of network surveillance applications mainly
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-315&quot;&gt;&lt;span class=&quot;trxml-431&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1448px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-315&quot;&gt;&lt;span class=&quot;trxml-431&quot;&gt;written in Perl.
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-315&quot;&gt;&lt;span class=&quot;trxml-431&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1474px;left:216px;font-size:6pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-315&quot;&gt;&lt;span class=&quot;trxml-431&quot;&gt;●● 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-315&quot;&gt;&lt;span class=&quot;trxml-431&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1469px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-3&quot;&gt;&lt;span class=&quot;trxml-315&quot;&gt;&lt;span class=&quot;trxml-431&quot;&gt;Installation and configuration of &lt;span class=&quot;trxml-64&quot;&gt;Microsoft IIS&lt;/span&gt; and &lt;span class=&quot;trxml-65&quot;&gt;Apache web servers&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;.
+&lt;/div&gt;
+&lt;div style=&quot;position:absolute;top:1504px;left:71px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;COURSES
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-5&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1525px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-317&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;&lt;span class=&quot;trxml-467&quot;&gt;2013&lt;/span&gt;         
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-317&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1525px;left:312px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-317&quot;&gt;&lt;span class=&quot;trxml-478&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;Anki Nilsson Kommunikationsträning   
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-317&quot;&gt;&lt;span class=&quot;trxml-478&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1525px;left:556px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-317&quot;&gt;&lt;span class=&quot;trxml-478&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;Malmö, Sweden
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-317&quot;&gt;&lt;span class=&quot;trxml-478&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1542px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;&lt;span class=&quot;trxml-317&quot;&gt;&lt;span class=&quot;trxml-478&quot;&gt;Presentationsteknik&lt;/span&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-5&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1562px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-318&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;&lt;span class=&quot;trxml-468&quot;&gt;2013&lt;/span&gt;         
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-318&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1562px;left:312px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-318&quot;&gt;&lt;span class=&quot;trxml-479&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;Softhouse Education                 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-318&quot;&gt;&lt;span class=&quot;trxml-479&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1562px;left:556px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-318&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;&lt;span class=&quot;trxml-479&quot;&gt;Malmö, Sweden&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-318&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1579px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;&lt;span class=&quot;trxml-318&quot;&gt;&lt;span class=&quot;trxml-455&quot;&gt;Certified Scrum Product Owner&lt;/span&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-5&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1599px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-319&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;&lt;span class=&quot;trxml-469&quot;&gt;2010&lt;/span&gt;         
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-319&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1599px;left:312px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-319&quot;&gt;&lt;span class=&quot;trxml-480&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;Indigo Management               
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-319&quot;&gt;&lt;span class=&quot;trxml-480&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1599px;left:539px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-319&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;&lt;span class=&quot;trxml-480&quot;&gt;Borgholm, Sweden&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-319&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1616px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;&lt;span class=&quot;trxml-319&quot;&gt;&lt;span class=&quot;trxml-456&quot;&gt;UGL – Understanding Group and Leadership&lt;/span&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-5&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1636px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-320&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;&lt;span class=&quot;trxml-470&quot;&gt;2009&lt;/span&gt;         
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-320&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1636px;left:312px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-320&quot;&gt;&lt;span class=&quot;trxml-481&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;Crisp                          
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-320&quot;&gt;&lt;span class=&quot;trxml-481&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1636px;left:535px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-320&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;&lt;span class=&quot;trxml-481&quot;&gt;Stockholm, Sweden&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-320&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1653px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-320&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;&lt;span class=&quot;trxml-457&quot;&gt;Deep Lean course&lt;/span&gt; given by &lt;span class=&quot;trxml-482&quot;&gt;Jeff Sutherland, Mary Poppendieck, Tom
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-320&quot;&gt;&lt;span class=&quot;trxml-482&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1669px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;&lt;span class=&quot;trxml-320&quot;&gt;&lt;span class=&quot;trxml-482&quot;&gt;Poppendieck &amp;amp; Henrik Kniberg&lt;/span&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-5&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1690px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-321&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;&lt;span class=&quot;trxml-471&quot;&gt;2008&lt;/span&gt;         
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-321&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1690px;left:312px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-321&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;&lt;span class=&quot;trxml-458&quot;&gt;Scrum&lt;/span&gt; &lt;span class=&quot;trxml-483&quot;&gt;Alliance                   
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-321&quot;&gt;&lt;span class=&quot;trxml-483&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1690px;left:535px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-321&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;&lt;span class=&quot;trxml-483&quot;&gt;Stockholm, Sweden&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-321&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1706px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-321&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;&lt;span class=&quot;trxml-459&quot;&gt;Certified Scrum Master Course&lt;/span&gt; given by &lt;span class=&quot;trxml-484&quot;&gt;Jeff Sutherland and Henrik
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-321&quot;&gt;&lt;span class=&quot;trxml-484&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1723px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;&lt;span class=&quot;trxml-321&quot;&gt;&lt;span class=&quot;trxml-484&quot;&gt;Kniberg&lt;/span&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-5&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1743px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-322&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;&lt;span class=&quot;trxml-472&quot;&gt;2007&lt;/span&gt;         
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-322&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1743px;left:312px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-322&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;&lt;span class=&quot;trxml-460&quot;&gt;Semcon Project Management&lt;/span&gt;            
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-322&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1743px;left:566px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-322&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;&lt;span class=&quot;trxml-485&quot;&gt;Lund, Sweden&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-322&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1760px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;&lt;span class=&quot;trxml-322&quot;&gt;&lt;span class=&quot;trxml-461&quot;&gt;Project planning and management&lt;/span&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-5&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1780px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-323&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;&lt;span class=&quot;trxml-473&quot;&gt;2006&lt;/span&gt;         
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-323&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1780px;left:312px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-323&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;&lt;span class=&quot;trxml-462&quot;&gt;aWaves&lt;/span&gt; &lt;span class=&quot;trxml-486&quot;&gt;Academy                    
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-323&quot;&gt;&lt;span class=&quot;trxml-486&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1780px;left:556px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-323&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;&lt;span class=&quot;trxml-486&quot;&gt;Malmö, Sweden&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-323&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1797px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-323&quot;&gt;&lt;span class=&quot;trxml-463&quot;&gt;&lt;span class=&quot;trxml-5&quot;&gt;Mobile Networks with focus on service implementation&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;/div&gt;
+&lt;div style=&quot;position:absolute;top:1852px;left:71px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;EDUCATION
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1874px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-325&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-474&quot;&gt;2002–2005&lt;/span&gt;    
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-325&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1874px;left:312px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-325&quot;&gt;&lt;span class=&quot;trxml-487&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;Lund University                      
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-325&quot;&gt;&lt;span class=&quot;trxml-487&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1874px;left:566px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-325&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-487&quot;&gt;Lund, Sweden&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-325&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1890px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-325&quot;&gt;&lt;span class=&quot;trxml-464&quot;&gt;Master of Science, Information and Communication Technology&lt;/span&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1911px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-326&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-475&quot;&gt;2001–2002&lt;/span&gt;    
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-326&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1911px;left:312px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-326&quot;&gt;&lt;span class=&quot;trxml-488&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;Lund University                      
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-326&quot;&gt;&lt;span class=&quot;trxml-488&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1911px;left:566px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-326&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-488&quot;&gt;Lund, Sweden&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-326&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1927px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-326&quot;&gt;Informatics &lt;span class=&quot;trxml-465&quot;&gt;40p design and development&lt;/span&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1948px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-327&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-476&quot;&gt;1999–2000&lt;/span&gt;    
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-327&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1948px;left:312px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-327&quot;&gt;&lt;span class=&quot;trxml-489&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;Lund University                      
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-327&quot;&gt;&lt;span class=&quot;trxml-489&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1948px;left:566px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-327&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-489&quot;&gt;Lund, Sweden&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-327&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1964px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-327&quot;&gt;&lt;span class=&quot;trxml-466&quot;&gt;Computer Science 40p courses&lt;/span&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1985px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-328&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-477&quot;&gt;1996 - 1999&lt;/span&gt;    
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-328&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1985px;left:312px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-328&quot;&gt;&lt;span class=&quot;trxml-490&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;Friaborgsskolan                 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-328&quot;&gt;&lt;span class=&quot;trxml-490&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:1985px;left:529px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-328&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;&lt;span class=&quot;trxml-490&quot;&gt;Simrishamn, Sweden&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-328&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:2001px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-328&quot;&gt;&lt;span class=&quot;trxml-7&quot;&gt;Science programme with technical orientation&lt;/span&gt;&lt;/span&gt; 
+&lt;/div&gt;
+&lt;div style=&quot;position:absolute;top:2245px;left:12px;white-space:nowrap;&quot;&gt;&lt;hr&gt; &lt;/hr&gt;
+&lt;/div&gt;
+&lt;div style=&quot;position:absolute;top:2355px;left:71px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;COMPETENCES
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:2376px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;Methods            
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:2376px;left:355px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;Scrum, Kanban, Lean, Critical Chain
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:2407px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;Platforms           
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:2407px;left:355px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;&lt;span class=&quot;trxml-537&quot;&gt;Linux&lt;/span&gt;, &lt;span class=&quot;trxml-538&quot;&gt;Android&lt;/span&gt;, &lt;span class=&quot;trxml-539&quot;&gt;Windows&lt;/span&gt;, &lt;span class=&quot;trxml-540&quot;&gt;Solaris&lt;/span&gt;, &lt;span class=&quot;trxml-541&quot;&gt;OSE&lt;/span&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:2438px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;Protocols           
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:2438px;left:355px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;&lt;span class=&quot;trxml-542&quot;&gt;TCP/IP&lt;/span&gt;, &lt;span class=&quot;trxml-543&quot;&gt;HTTP&lt;/span&gt;, &lt;span class=&quot;trxml-544&quot;&gt;REST&lt;/span&gt;, &lt;span class=&quot;trxml-545&quot;&gt;SOAP&lt;/span&gt;, &lt;span class=&quot;trxml-546&quot;&gt;OMA-DS&lt;/span&gt;, &lt;span class=&quot;trxml-547&quot;&gt;OMA-
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-547&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:2455px;left:355px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;&lt;span class=&quot;trxml-547&quot;&gt;DM&lt;/span&gt;, &lt;span class=&quot;trxml-548&quot;&gt;SMPP&lt;/span&gt;, &lt;span class=&quot;trxml-549&quot;&gt;OMA-CP&lt;/span&gt;, &lt;span class=&quot;trxml-550&quot;&gt;RTSP&lt;/span&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:2486px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;Languages           
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:2486px;left:355px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;&lt;span class=&quot;trxml-551&quot;&gt;Javascript&lt;/span&gt;, &lt;span class=&quot;trxml-552&quot;&gt;Java&lt;/span&gt;, &lt;span class=&quot;trxml-553&quot;&gt;C&lt;/span&gt;, &lt;span class=&quot;trxml-554&quot;&gt;C&lt;/span&gt;++
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:2517px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;Tools              
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:2517px;left:355px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;&lt;span class=&quot;trxml-555&quot;&gt;Eclipse&lt;/span&gt;, &lt;span class=&quot;trxml-556&quot;&gt;Sublime&lt;/span&gt;, &lt;span class=&quot;trxml-557&quot;&gt;Visual Studio&lt;/span&gt;, &lt;span class=&quot;trxml-558&quot;&gt;Hansoft&lt;/span&gt;, &lt;span class=&quot;trxml-559&quot;&gt;GIT&lt;/span&gt;,
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:2533px;left:355px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;&lt;span class=&quot;trxml-560&quot;&gt;SVN&lt;/span&gt;, &lt;span class=&quot;trxml-561&quot;&gt;CVS&lt;/span&gt;, &lt;span class=&quot;trxml-562&quot;&gt;Clearcase&lt;/span&gt;, &lt;span class=&quot;trxml-563&quot;&gt;Jenkins&lt;/span&gt;, &lt;span class=&quot;trxml-564&quot;&gt;Anthill&lt;/span&gt;, &lt;span class=&quot;trxml-565&quot;&gt;Bugzilla&lt;/span&gt;,
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:2550px;left:355px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;&lt;span class=&quot;trxml-566&quot;&gt;Clearquest&lt;/span&gt;, &lt;span class=&quot;trxml-567&quot;&gt;CME&lt;/span&gt;, &lt;span class=&quot;trxml-568&quot;&gt;Ant&lt;/span&gt;, &lt;span class=&quot;trxml-569&quot;&gt;Maven&lt;/span&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:2581px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;Databases           
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-9&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:2581px;left:355px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-9&quot;&gt;&lt;span class=&quot;trxml-570&quot;&gt;PostgreSQL&lt;/span&gt;, &lt;span class=&quot;trxml-571&quot;&gt;MongoDB&lt;/span&gt;, &lt;span class=&quot;trxml-572&quot;&gt;MySQL&lt;/span&gt;, &lt;span class=&quot;trxml-573&quot;&gt;Oracle&lt;/span&gt;&lt;/span&gt;
+&lt;/div&gt;
+&lt;div style=&quot;position:absolute;top:2627px;left:71px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;VOLOUNTEER WORK
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:2649px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;2002 - 2005    
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:2649px;left:312px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;Sydskånska Nationen                  
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:2649px;left:566px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;Lund, Sweden
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:2665px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;Member of the Seniorskollegium
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:2685px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;2002         
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:2685px;left:312px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;Lundakarnevalen                     
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:2685px;left:566px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;Lund, Sweden
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:2702px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;Network Manager
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:2723px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;2001 - 2002    
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:2723px;left:312px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;Sydskånska Nationen                  
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:2723px;left:566px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;Lund, Sweden
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:2739px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;PR and IT Manager
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:2759px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;1998 - 1999    
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:2759px;left:312px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;Friaborgsskolan                 
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:2759px;left:529px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;Simrishamn, Sweden
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-11&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:2776px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-11&quot;&gt;Founded the computer club&lt;/span&gt;
+&lt;/div&gt;
+&lt;div style=&quot;position:absolute;top:2811px;left:71px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;LANGUAGES
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-13&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:2832px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;&lt;span class=&quot;trxml-574&quot;&gt;Swedish&lt;/span&gt;    
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-13&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:2832px;left:296px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;&lt;span class=&quot;trxml-577&quot;&gt;&lt;span class=&quot;trxml-1374&quot;&gt;Fluent in spoken and written&lt;/span&gt; language&lt;/span&gt;. Native language.
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-13&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:2864px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;&lt;span class=&quot;trxml-575&quot;&gt;English&lt;/span&gt;     
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-13&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:2864px;left:296px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;&lt;span class=&quot;trxml-579&quot;&gt;&lt;span class=&quot;trxml-1375&quot;&gt;Fluent in spoken and written&lt;/span&gt; language&lt;/span&gt;.
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-13&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:2895px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;&lt;span class=&quot;trxml-576&quot;&gt;German&lt;/span&gt;    
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-13&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:2895px;left:296px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-13&quot;&gt;&lt;span class=&quot;trxml-580&quot;&gt;Intermediate in spoken and written language&lt;/span&gt;&lt;/span&gt;.
+&lt;/div&gt;
+&lt;div style=&quot;position:absolute;top:2940px;left:71px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-15&quot;&gt;PERSONAL
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-15&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:2962px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-15&quot;&gt;Swedish drivers license class B
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-15&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:2993px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-15&quot;&gt;Interests include &lt;span class=&quot;trxml-586&quot;&gt;photography&lt;/span&gt;, &lt;span class=&quot;trxml-587&quot;&gt;travelling&lt;/span&gt; and &lt;span class=&quot;trxml-588&quot;&gt;sports&lt;/span&gt; such as &lt;span class=&quot;trxml-589&quot;&gt;skiing&lt;/span&gt;, &lt;span class=&quot;trxml-590&quot;&gt;diving&lt;/span&gt;,
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-15&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:3010px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-15&quot;&gt;&lt;span class=&quot;trxml-591&quot;&gt;cycling&lt;/span&gt;, &lt;span class=&quot;trxml-592&quot;&gt;sailing&lt;/span&gt;&lt;/span&gt;. 
+&lt;/div&gt;
+&lt;div style=&quot;position:absolute;top:3368px;left:12px;white-space:nowrap;&quot;&gt;&lt;hr&gt; &lt;/hr&gt;
+&lt;/div&gt;
+&lt;div style=&quot;position:absolute;top:3477px;left:71px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:9pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;COMPLETE PROJECT LIST
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:3530px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-330&quot;&gt;&lt;span class=&quot;trxml-1354&quot;&gt;&lt;span class=&quot;trxml-404&quot;&gt;Softhouse&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;trxml-364&quot;&gt;2013&lt;/span&gt; 9 Months
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-330&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:3546px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-330&quot;&gt;Techniques: Scrum, Kanban, Five Dysfunctions of a Team,
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-330&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:3563px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-330&quot;&gt;Teambuilding
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-330&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:3579px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-330&quot;&gt;Role: &lt;span class=&quot;trxml-382&quot;&gt;Agile Coach&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-330&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:3596px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-330&quot;&gt;&lt;span class=&quot;trxml-432&quot;&gt;Worked as an Agile Coach for a Large Enterprise introducing Agile and
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-330&quot;&gt;&lt;span class=&quot;trxml-432&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:3612px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-330&quot;&gt;&lt;span class=&quot;trxml-432&quot;&gt;Lean ways of working. Personally trained, coached and ran team building
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-330&quot;&gt;&lt;span class=&quot;trxml-432&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:3629px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-330&quot;&gt;&lt;span class=&quot;trxml-432&quot;&gt;excersizes for more than 20 teams. Coached and educated managers. Set
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-330&quot;&gt;&lt;span class=&quot;trxml-432&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:3645px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-330&quot;&gt;&lt;span class=&quot;trxml-432&quot;&gt;up and ran a program for training to be coaches&lt;/span&gt;&lt;/span&gt;.
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:3676px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-332&quot;&gt;&lt;span class=&quot;trxml-1355&quot;&gt;&lt;span class=&quot;trxml-405&quot;&gt;Youcruit&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;trxml-365&quot;&gt;2012 Ongoing&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-332&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:3693px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-332&quot;&gt;Techniques: &lt;span class=&quot;trxml-433&quot;&gt;&lt;span class=&quot;trxml-191&quot;&gt;Javascript&lt;/span&gt;, &lt;span class=&quot;trxml-192&quot;&gt;Java&lt;/span&gt;, &lt;span class=&quot;trxml-193&quot;&gt;BackboneJS&lt;/span&gt;, JQuery, &lt;span class=&quot;trxml-194&quot;&gt;Maven&lt;/span&gt;, &lt;span class=&quot;trxml-195&quot;&gt;PostgreSQL&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-332&quot;&gt;&lt;span class=&quot;trxml-433&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:3710px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-332&quot;&gt;&lt;span class=&quot;trxml-433&quot;&gt;MongoDB, REST&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-332&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:3726px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-332&quot;&gt;Role: &lt;span class=&quot;trxml-383&quot;&gt;Developer&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-332&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:3742px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-332&quot;&gt;&lt;span class=&quot;trxml-434&quot;&gt;Developed the frontend and backend for a video CV service. A
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-332&quot;&gt;&lt;span class=&quot;trxml-434&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:3759px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-332&quot;&gt;&lt;span class=&quot;trxml-434&quot;&gt;responsive one page javascript state of the art web application.
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-332&quot;&gt;&lt;span class=&quot;trxml-434&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:3790px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-332&quot;&gt;&lt;span class=&quot;trxml-434&quot;&gt;Softhouse 2011 24 Months
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-332&quot;&gt;&lt;span class=&quot;trxml-434&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:3806px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-332&quot;&gt;&lt;span class=&quot;trxml-434&quot;&gt;Techniques: &lt;span class=&quot;trxml-196&quot;&gt;Java&lt;/span&gt;, &lt;span class=&quot;trxml-197&quot;&gt;Javascript&lt;/span&gt;, &lt;span class=&quot;trxml-198&quot;&gt;GWT&lt;/span&gt;, &lt;span class=&quot;trxml-199&quot;&gt;C&lt;/span&gt;++, Python&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-332&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:3823px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-332&quot;&gt;Role: &lt;span class=&quot;trxml-384&quot;&gt;Developer&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-332&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:3839px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-332&quot;&gt;&lt;span class=&quot;trxml-435&quot;&gt;Agile developer of web management interface against a building
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-332&quot;&gt;&lt;span class=&quot;trxml-435&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:3856px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-332&quot;&gt;&lt;span class=&quot;trxml-435&quot;&gt;automation system. Architected major updates to system regarding
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-332&quot;&gt;&lt;span class=&quot;trxml-435&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:3872px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-332&quot;&gt;&lt;span class=&quot;trxml-435&quot;&gt;functionality and security&lt;/span&gt;&lt;/span&gt;.
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:3904px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-334&quot;&gt;&lt;span class=&quot;trxml-1357&quot;&gt;&lt;span class=&quot;trxml-406&quot;&gt;Side Project&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;trxml-366&quot;&gt;2011&lt;/span&gt; 6 Months
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-334&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:3920px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-334&quot;&gt;Techniques: Java, Javascript, JQuery, Maven
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-334&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:3937px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-334&quot;&gt;Role: &lt;span class=&quot;trxml-385&quot;&gt;Developer&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-334&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:3953px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-334&quot;&gt;&lt;span class=&quot;trxml-436&quot;&gt;Developed a social marketing solution for a startup. The solution was a
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-334&quot;&gt;&lt;span class=&quot;trxml-436&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:3970px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-334&quot;&gt;&lt;span class=&quot;trxml-436&quot;&gt;module that was included in the checkout flow of webshops&lt;/span&gt;&lt;/span&gt;.
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:4001px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-336&quot;&gt;&lt;span class=&quot;trxml-1356&quot;&gt;&lt;span class=&quot;trxml-407&quot;&gt;Softhouse&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;trxml-367&quot;&gt;2010&lt;/span&gt; 3 Months
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-336&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:4017px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-336&quot;&gt;&lt;span class=&quot;trxml-1359&quot;&gt;&lt;span class=&quot;trxml-408&quot;&gt;Techniques&lt;/span&gt;&lt;/span&gt;: Android, OSE
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-336&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:4034px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-336&quot;&gt;Role: &lt;span class=&quot;trxml-386&quot;&gt;Software Project Manager&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-336&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:4050px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-336&quot;&gt;&lt;span class=&quot;trxml-437&quot;&gt;Managing several software projects against a customer in Japan at a
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-336&quot;&gt;&lt;span class=&quot;trxml-437&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:4067px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-336&quot;&gt;&lt;span class=&quot;trxml-437&quot;&gt;mobile phone platform and modem vendor in the telecommunications
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-336&quot;&gt;&lt;span class=&quot;trxml-437&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:4083px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-336&quot;&gt;&lt;span class=&quot;trxml-437&quot;&gt;industry. Responsible for deliveries and development of software directly
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-336&quot;&gt;&lt;span class=&quot;trxml-437&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:4100px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-336&quot;&gt;&lt;span class=&quot;trxml-437&quot;&gt;towards the customer with teams at several locations in Europe and
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-336&quot;&gt;&lt;span class=&quot;trxml-437&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:4116px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-336&quot;&gt;&lt;span class=&quot;trxml-437&quot;&gt;Japan&lt;/span&gt;&lt;/span&gt;.
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:4148px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-338&quot;&gt;&lt;span class=&quot;trxml-1358&quot;&gt;&lt;span class=&quot;trxml-409&quot;&gt;Softhouse&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;trxml-368&quot;&gt;2010&lt;/span&gt; 2 Months
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-338&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:4164px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-338&quot;&gt;&lt;span class=&quot;trxml-438&quot;&gt;Techniques: &lt;span class=&quot;trxml-200&quot;&gt;Scrum&lt;/span&gt;, &lt;span class=&quot;trxml-201&quot;&gt;Android&lt;/span&gt;, &lt;span class=&quot;trxml-202&quot;&gt;ASP.NET&lt;/span&gt;, &lt;span class=&quot;trxml-203&quot;&gt;Maven&lt;/span&gt;&lt;/span&gt;, &lt;span class=&quot;trxml-1361&quot;&gt;&lt;span class=&quot;trxml-410&quot;&gt;Hudson&lt;/span&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-338&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:4181px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-338&quot;&gt;Role: &lt;span class=&quot;trxml-387&quot;&gt;Developer&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-338&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:4197px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-338&quot;&gt;&lt;span class=&quot;trxml-439&quot;&gt;Developed an Android client application against an existing ASP.NET
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-338&quot;&gt;&lt;span class=&quot;trxml-439&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:4214px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-338&quot;&gt;&lt;span class=&quot;trxml-439&quot;&gt;backend system. Managed implementation of Scrum within the team, set
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-338&quot;&gt;&lt;span class=&quot;trxml-439&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:4230px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-338&quot;&gt;&lt;span class=&quot;trxml-439&quot;&gt;the application architecture, set up and implemented continuous
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-338&quot;&gt;&lt;span class=&quot;trxml-439&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:4246px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-338&quot;&gt;&lt;span class=&quot;trxml-439&quot;&gt;integration and TDD. Debugged the backend system. Focused on
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-338&quot;&gt;&lt;span class=&quot;trxml-439&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:4263px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-338&quot;&gt;&lt;span class=&quot;trxml-439&quot;&gt;optimizing the system with usability for the end user as the main goal&lt;/span&gt;&lt;/span&gt;.
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:4294px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-340&quot;&gt;&lt;span class=&quot;trxml-1360&quot;&gt;&lt;span class=&quot;trxml-411&quot;&gt;Tactel&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;trxml-369&quot;&gt;2009&lt;/span&gt;    
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-340&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:4294px;left:312px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-340&quot;&gt;12 Months
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-340&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:4311px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-340&quot;&gt;Techniques: Scrum, Kanban, Java, OMA-DS
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-340&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:4327px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-340&quot;&gt;Role: &lt;span class=&quot;trxml-388&quot;&gt;Program Manager&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-340&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:4344px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-340&quot;&gt;&lt;span class=&quot;trxml-440&quot;&gt;Led several development teams, an operations department and project
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-340&quot;&gt;&lt;span class=&quot;trxml-440&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:4360px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-340&quot;&gt;&lt;span class=&quot;trxml-440&quot;&gt;Managers. Worked with customization projects for telecom operators
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-340&quot;&gt;&lt;span class=&quot;trxml-440&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:4377px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-340&quot;&gt;&lt;span class=&quot;trxml-440&quot;&gt;around the globe as well as r&amp;amp;d. Took active part in technical problem&lt;/span&gt;&lt;/span&gt; 
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:4490px;left:12px;white-space:nowrap;&quot;&gt;&lt;hr&gt;&lt;span class=&quot;trxml-17&quot;&gt; &lt;/span&gt;&lt;/hr&gt;&lt;span class=&quot;trxml-17&quot;&gt;
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:4585px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;solving and performance optimization. Brought the release cycle down
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:4602px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;from 12 months to 4 weeks.
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:4633px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-342&quot;&gt;&lt;span class=&quot;trxml-1363&quot;&gt;&lt;span class=&quot;trxml-412&quot;&gt;Tactel&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;trxml-370&quot;&gt;2009&lt;/span&gt;    
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-342&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:4633px;left:313px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-342&quot;&gt;&lt;span class=&quot;trxml-441&quot;&gt;1 Month
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-342&quot;&gt;&lt;span class=&quot;trxml-441&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:4649px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-342&quot;&gt;&lt;span class=&quot;trxml-441&quot;&gt;Techniques: &lt;span class=&quot;trxml-204&quot;&gt;SOAP&lt;/span&gt;, &lt;span class=&quot;trxml-205&quot;&gt;REST&lt;/span&gt;, &lt;span class=&quot;trxml-206&quot;&gt;Java&lt;/span&gt;, &lt;span class=&quot;trxml-207&quot;&gt;LDAP&lt;/span&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-342&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:4666px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-342&quot;&gt;Role: &lt;span class=&quot;trxml-389&quot;&gt;Developer&lt;/span&gt;, &lt;span class=&quot;trxml-390&quot;&gt;System Engineer&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-342&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:4682px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-342&quot;&gt;&lt;span class=&quot;trxml-442&quot;&gt;Set up, configured and customized a CMS system based on the Alfresco
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-342&quot;&gt;&lt;span class=&quot;trxml-442&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:4699px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-342&quot;&gt;&lt;span class=&quot;trxml-442&quot;&gt;open source system&lt;/span&gt;&lt;/span&gt;.
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:4730px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-344&quot;&gt;&lt;span class=&quot;trxml-1362&quot;&gt;&lt;span class=&quot;trxml-413&quot;&gt;Tactel&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;trxml-371&quot;&gt;2008&lt;/span&gt;    
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-344&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:4730px;left:312px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-344&quot;&gt;12 Months
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-344&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:4746px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-344&quot;&gt;Techniques: Scrum, Java ME, DLNA
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-344&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:4763px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-344&quot;&gt;Role: &lt;span class=&quot;trxml-391&quot;&gt;Project leader&lt;/span&gt;, &lt;span class=&quot;trxml-1365&quot;&gt;&lt;span class=&quot;trxml-414&quot;&gt;Scrum Master&lt;/span&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-344&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:4780px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-344&quot;&gt;&lt;span class=&quot;trxml-443&quot;&gt;Led several teams developing &lt;span class=&quot;trxml-208&quot;&gt;Java ME&lt;/span&gt; based multimedia applications for
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-344&quot;&gt;&lt;span class=&quot;trxml-443&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:4796px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-344&quot;&gt;&lt;span class=&quot;trxml-443&quot;&gt;a major&lt;/span&gt; mobile handset manufacturer. &lt;span class=&quot;trxml-444&quot;&gt;Was responsible for handing over
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-344&quot;&gt;&lt;span class=&quot;trxml-444&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:4813px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-344&quot;&gt;&lt;span class=&quot;trxml-444&quot;&gt;projects to teams in Brazil. Brought back a project in crisis from Tokyo&lt;/span&gt;&lt;/span&gt;.
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:4844px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-346&quot;&gt;&lt;span class=&quot;trxml-1364&quot;&gt;&lt;span class=&quot;trxml-415&quot;&gt;Tactel&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;trxml-372&quot;&gt;2007&lt;/span&gt;    
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-346&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:4844px;left:312px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-346&quot;&gt;&lt;span class=&quot;trxml-445&quot;&gt;14&lt;/span&gt; months
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-346&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:4860px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-346&quot;&gt;&lt;span class=&quot;trxml-1366&quot;&gt;&lt;span class=&quot;trxml-416&quot;&gt;Techniques&lt;/span&gt;&lt;/span&gt;: &lt;span class=&quot;trxml-392&quot;&gt;Critical Chain&lt;/span&gt;, &lt;span class=&quot;trxml-417&quot;&gt;&lt;span class=&quot;trxml-1367&quot;&gt;Scrum&lt;/span&gt;, &lt;span class=&quot;trxml-1368&quot;&gt;Java ME, GPS, Accelerometer&lt;/span&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-346&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:4877px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-346&quot;&gt;Role: &lt;span class=&quot;trxml-393&quot;&gt;Project Leader, Team Leader&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-346&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:4893px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-346&quot;&gt;&lt;span class=&quot;trxml-446&quot;&gt;Brought several &lt;span class=&quot;trxml-209&quot;&gt;Java ME&lt;/span&gt; based applications in the sports / active
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-346&quot;&gt;&lt;span class=&quot;trxml-446&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:4910px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-346&quot;&gt;&lt;span class=&quot;trxml-446&quot;&gt;lifestyle segment to market for a major mobile handset manufacturer.
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-346&quot;&gt;&lt;span class=&quot;trxml-446&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:4926px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-346&quot;&gt;&lt;span class=&quot;trxml-446&quot;&gt;Worked with different parties throughout the lifecycle. Introduced
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-346&quot;&gt;&lt;span class=&quot;trxml-446&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:4943px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-346&quot;&gt;&lt;span class=&quot;trxml-446&quot;&gt;Scrum when the project was &amp;quot;doomed&amp;quot; and brought it back on schedule&lt;/span&gt;&lt;/span&gt;.
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:4974px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-348&quot;&gt;&lt;span class=&quot;trxml-1370&quot;&gt;&lt;span class=&quot;trxml-418&quot;&gt;Tactel&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;trxml-373&quot;&gt;2007&lt;/span&gt;    
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-348&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:4974px;left:312px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-348&quot;&gt;6 months
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-348&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:4990px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-348&quot;&gt;&lt;span class=&quot;trxml-447&quot;&gt;Techniques: &lt;span class=&quot;trxml-210&quot;&gt;C&lt;/span&gt;, &lt;span class=&quot;trxml-211&quot;&gt;Java&lt;/span&gt;, &lt;span class=&quot;trxml-212&quot;&gt;Lauterbach&lt;/span&gt;, &lt;span class=&quot;trxml-213&quot;&gt;TCP&lt;/span&gt;&lt;/span&gt;/&lt;span class=&quot;trxml-214&quot;&gt;IP&lt;/span&gt;, &lt;span class=&quot;trxml-215&quot;&gt;OSE&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-348&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:5007px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-348&quot;&gt;Role: &lt;span class=&quot;trxml-394&quot;&gt;Developer&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-348&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:5024px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-348&quot;&gt;&lt;span class=&quot;trxml-448&quot;&gt;Worked as a problem solving consultant at a major mobile handset
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-348&quot;&gt;&lt;span class=&quot;trxml-448&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:5040px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-348&quot;&gt;&lt;span class=&quot;trxml-448&quot;&gt;manufacturer. Coordinated efforts between several suppliers and
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-348&quot;&gt;&lt;span class=&quot;trxml-448&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:5057px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-348&quot;&gt;&lt;span class=&quot;trxml-448&quot;&gt;different groups within the customer’s organization&lt;/span&gt;&lt;/span&gt;.
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:5088px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-350&quot;&gt;&lt;span class=&quot;trxml-1369&quot;&gt;&lt;span class=&quot;trxml-419&quot;&gt;Tactel&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;trxml-374&quot;&gt;2006&lt;/span&gt;    
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-350&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:5088px;left:312px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-350&quot;&gt;&lt;span class=&quot;trxml-449&quot;&gt;12 month
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-350&quot;&gt;&lt;span class=&quot;trxml-449&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:5104px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-350&quot;&gt;&lt;span class=&quot;trxml-449&quot;&gt;Techniques: &lt;span class=&quot;trxml-216&quot;&gt;Java&lt;/span&gt;, &lt;span class=&quot;trxml-217&quot;&gt;SOAP&lt;/span&gt;, &lt;span class=&quot;trxml-218&quot;&gt;OMA-DS&lt;/span&gt;, &lt;span class=&quot;trxml-219&quot;&gt;HTTP&lt;/span&gt;, &lt;span class=&quot;trxml-220&quot;&gt;Hibernate&lt;/span&gt;, &lt;span class=&quot;trxml-221&quot;&gt;JDBC&lt;/span&gt;, &lt;span class=&quot;trxml-222&quot;&gt;JSP&lt;/span&gt;&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-350&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:5121px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-350&quot;&gt;&lt;span class=&quot;trxml-223&quot;&gt;Servlet&lt;/span&gt;, &lt;span class=&quot;trxml-224&quot;&gt;Apache Tomcat&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-350&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:5137px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-350&quot;&gt;Role: &lt;span class=&quot;trxml-395&quot;&gt;Developer, Architect&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-350&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:5153px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-350&quot;&gt;&lt;span class=&quot;trxml-450&quot;&gt;Architected a major rewrite of an OMA-DS server suite. Developed
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-350&quot;&gt;&lt;span class=&quot;trxml-450&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:5170px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-350&quot;&gt;&lt;span class=&quot;trxml-450&quot;&gt;SOAP based public API:s. Optimized applications across the software
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-350&quot;&gt;&lt;span class=&quot;trxml-450&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:5186px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-350&quot;&gt;&lt;span class=&quot;trxml-450&quot;&gt;stack including web client code and database queries&lt;/span&gt;&lt;/span&gt;.
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:5218px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-352&quot;&gt;&lt;span class=&quot;trxml-1372&quot;&gt;&lt;span class=&quot;trxml-420&quot;&gt;Tactel&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;trxml-375&quot;&gt;2006&lt;/span&gt;    
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-352&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:5218px;left:311px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-352&quot;&gt;3 months
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-352&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:5234px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-352&quot;&gt;&lt;span class=&quot;trxml-451&quot;&gt;Techniques: Java EE, &lt;span class=&quot;trxml-225&quot;&gt;HTTP&lt;/span&gt;, &lt;span class=&quot;trxml-226&quot;&gt;SMPP&lt;/span&gt;&lt;/span&gt;, &lt;span class=&quot;trxml-227&quot;&gt;OMA-DM&lt;/span&gt;, &lt;span class=&quot;trxml-228&quot;&gt;SOAP&lt;/span&gt;, &lt;span class=&quot;trxml-229&quot;&gt;Struts&lt;/span&gt;, &lt;span class=&quot;trxml-230&quot;&gt;Oracle&lt;/span&gt;,
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-352&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:5251px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-352&quot;&gt;&lt;span class=&quot;trxml-231&quot;&gt;Weblogic&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-352&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:5267px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-352&quot;&gt;Role: &lt;span class=&quot;trxml-396&quot;&gt;Developer&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-352&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:5284px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-352&quot;&gt;&lt;span class=&quot;trxml-452&quot;&gt;Set up an OMA-DM server and built a demo application on top of it for
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-352&quot;&gt;&lt;span class=&quot;trxml-452&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:5300px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-352&quot;&gt;&lt;span class=&quot;trxml-452&quot;&gt;the 3 GSM fair&lt;/span&gt;&lt;/span&gt;.
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:5331px;left:216px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-354&quot;&gt;&lt;span class=&quot;trxml-1371&quot;&gt;&lt;span class=&quot;trxml-421&quot;&gt;Tactel&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;trxml-376&quot;&gt;2005&lt;/span&gt;    
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-354&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:5331px;left:312px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-354&quot;&gt;3 months
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-354&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:5348px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-354&quot;&gt;Techniques: Java ME
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-354&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:5364px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-354&quot;&gt;Role: &lt;span class=&quot;trxml-397&quot;&gt;Developer&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-354&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:5381px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-354&quot;&gt;&lt;span class=&quot;trxml-453&quot;&gt;Developed a stunning data visualization application for a major mobile
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-354&quot;&gt;&lt;span class=&quot;trxml-453&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:5397px;left:232px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:10pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-354&quot;&gt;&lt;span class=&quot;trxml-453&quot;&gt;handset manufacturer&lt;/span&gt;&lt;/span&gt;.
+&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-17&quot;&gt;
+&lt;/span&gt;&lt;div style=&quot;position:absolute;top:5526px;left:172px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:7pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-356&quot;&gt;PHONE +&lt;span class=&quot;trxml-601&quot;&gt;&lt;span class=&quot;trxml-602&quot;&gt;46 (0) 555555555&lt;/span&gt;&lt;/span&gt; • E- &lt;span class=&quot;trxml-1373&quot;&gt;&lt;span class=&quot;trxml-422&quot;&gt;MAIL AAAAAA@BBBB.COM
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;span class=&quot;trxml-1373&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-356&quot;&gt;&lt;span class=&quot;trxml-422&quot;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;div style=&quot;position:absolute;top:5543px;left:238px;font-family:&amp;apos;Times New Roman&amp;apos;;font-size:7pt;white-space:nowrap;&quot;&gt;&lt;span class=&quot;trxml-17&quot;&gt;&lt;span class=&quot;trxml-356&quot;&gt;&lt;span class=&quot;trxml-1373&quot;&gt;&lt;span class=&quot;trxml-422&quot;&gt;Östra&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;trxml-454&quot;&gt;GATAN 555 • 555 55 STAD LAND&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; &lt;/div&gt;
+
+&lt;div style=&quot;position:absolute;top:5563px;&quot;&gt; &lt;/div&gt; &lt;/div&gt;&lt;/div&gt;
+</DocumentHtml>
+<Performance>
+	<PreProcessingTime>0.535</PreProcessingTime>
+	<ProcessingTime>7.645</ProcessingTime>
+	<NormalizationTime>1.08</NormalizationTime>
+	<TemplatingTime>0.978</TemplatingTime>
+	<TotalTime>10.238</TotalTime>
+</Performance>
+</Profile>
+
