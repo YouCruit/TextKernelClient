@@ -11,8 +11,11 @@ import com.youcruit.textkernel.client.objects.Profile;
 
 public class ProfileParser 
 {   
+    ObjectMapper mapper;
+    public ProfileParser(){
+	mapper = new XmlMapper();
+    }
     Profile parse(InputStream is) throws JsonParseException, JsonMappingException, IOException{
-	ObjectMapper mapper = new XmlMapper();
 	return mapper.readValue(is, Profile.class);
-    } 
+    }
 }
