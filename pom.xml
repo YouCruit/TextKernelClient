@@ -68,8 +68,8 @@
 					<includes>
 						<include>**/*</include>
 					</includes>
-					<repositoryName>userbin-java</repositoryName>
-					<repositoryOwner>userbin</repositoryOwner>
+					<repositoryName>TextKernelClient</repositoryName>
+					<repositoryOwner>YouCruit</repositoryOwner>
 				</configuration>
 				<executions>
 					<execution>
