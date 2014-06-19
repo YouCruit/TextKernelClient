@@ -1,14 +1,18 @@
 package com.youcruit.textkernel.client.objects;
 
+import java.util.Date;
+
+import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
 import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlProperty;
 
 public class EmploymentItem {
     @JacksonXmlProperty(localName="JobTitle")
     private String jobTitle;
     @JacksonXmlProperty(localName="StartDate")
-    private String startDate;
+    private Date startDate;
     @JacksonXmlProperty(localName="EndDate")
-    private String endDate;
+    @JsonDeserialize(using = TextKernelDateDeserializer.class)
+    private Date endDate;
     @JacksonXmlProperty(localName="ExperienceYears")
     private int experienceYears;
     @JacksonXmlProperty(localName="EmployerName")
@@ -21,16 +25,16 @@ public class EmploymentItem {
     public void setJobTitle(String jobTitle) {
         this.jobTitle = jobTitle;
     }
-    public String getStartDate() {
+    public Date getStartDate() {
         return startDate;
     }
-    public void setStartDate(String startDate) {
+    public void setStartDate(Date startDate) {
         this.startDate = startDate;
     }
-    public String getEndDate() {
+    public Date getEndDate() {
         return endDate;
     }
-    public void setEndDate(String endDate) {
+    public void setEndDate(Date endDate) {
         this.endDate = endDate;
     }
     public int getExperienceYears() {

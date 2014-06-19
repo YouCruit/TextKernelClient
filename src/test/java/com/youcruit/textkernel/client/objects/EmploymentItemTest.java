@@ -5,6 +5,7 @@ import static org.junit.Assert.assertEquals;
 import java.io.IOException;
 import java.io.InputStream;
 import java.text.ParseException;
+import java.util.Calendar;
 
 import org.junit.After;
 import org.junit.Before;
@@ -26,12 +27,19 @@ public class EmploymentItemTest {
 	om = new XmlMapper();
 	expected = new EmploymentItem();
 	expected.setJobTitle("jobTitle");
-	expected.setStartDate("2012-01-01");
-	expected.setEndDate("present");
+	Calendar cal = Calendar.getInstance();
+	cal.set(Calendar.YEAR, 2012);
+	cal.set(Calendar.MONTH, 0);
+	cal.set(Calendar.DAY_OF_MONTH, 1);
+	cal.set(Calendar.HOUR_OF_DAY, 1);
+	cal.set(Calendar.MINUTE, 0);
+	cal.set(Calendar.SECOND, 0);
+	cal.set(Calendar.MILLISECOND, 0);
+	expected.setStartDate(cal.getTime());
+	expected.setEndDate(null);
 	expected.setExperienceYears(3);
 	expected.setEmployerName("employerName");
 	expected.setDescription("Random long description");
-	
     }
     
     @Test
