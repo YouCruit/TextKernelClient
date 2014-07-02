@@ -35,16 +35,17 @@ public class TextKernelClient {
     private static final String FORM_PART_NAME_ACCOUNT = "account";
     private static final String FORM_PART_NAME_USERNAME = "username";
     private static final String FORM_PART_NAME_FILE = "uploaded_file";
-    private static final String textKernelUrl = "https://home.textkernel.nl/sourcebox/processAtomicPost.do";
+    private final String textKernelUrl;
     private final String username;
     private final String account;
     private final String password;
     private final ProfileParser p;
     
-    public TextKernelClient(final String username, final String account, final String password){
+    public TextKernelClient(final String textKernelUrl, final String username, final String account, final String password){
 	this.username = username;
 	this.account = account;
 	this.password = password;
+	this.textKernelUrl = textKernelUrl;
 	p = new ProfileParser();
     }
     
