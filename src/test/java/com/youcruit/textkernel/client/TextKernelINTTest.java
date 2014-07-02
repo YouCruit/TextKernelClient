@@ -10,7 +10,7 @@ import com.fasterxml.jackson.databind.JsonMappingException;
 public class TextKernelINTTest {
 
     public static void main(String[] args) throws JsonParseException, JsonMappingException, IOException, URISyntaxException {
-	if(args.length!=4){
+	if(args.length!=5){
 	    System.out.println("Usage: java TextKernelINTTest url username account password path_to_cv");
 	}
 	TextKernelClient tkclient = new TextKernelClient(args[0], args[1], args[2], args[3]);
