@@ -1,5 +1,6 @@
 package com.youcruit.textkernel.client.objects;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlProperty;
@@ -12,18 +13,27 @@ public class Skills {
     @JacksonXmlProperty(localName="SoftSkills")
     private List<SoftSkill> softSkills;
     public List<ComputerSkill> getComputerSkills() {
+	if(computerSkills == null){
+	    computerSkills = new ArrayList<ComputerSkill>();
+	}
         return computerSkills;
     }
     public void setComputerSkills(List<ComputerSkill> computerSkills) {
         this.computerSkills = computerSkills;
     }
     public List<LanguageSkill> getLanguageSkills() {
+	if(languageSkills == null){
+	    languageSkills = new ArrayList<LanguageSkill>();
+	}
         return languageSkills;
     }
     public void setLanguageSkills(List<LanguageSkill> languageSkills) {
         this.languageSkills = languageSkills;
     }
     public List<SoftSkill> getSoftSkills() {
+	if(softSkills == null){
+	    softSkills = new ArrayList<SoftSkill>();
+	}
         return softSkills;
     }
     public void setSoftSkills(List<SoftSkill> softSkills) {

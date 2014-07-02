@@ -1,5 +1,6 @@
 package com.youcruit.textkernel.client.objects;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
@@ -38,6 +39,9 @@ public class Profile {
     }
 
     public List<EductationItem> getEducationHistory() {
+	if(educationHistory==null){
+	    educationHistory = new ArrayList<EductationItem>();
+	}
         return educationHistory;
     }
 
@@ -46,6 +50,9 @@ public class Profile {
     }
 
     public List<EmploymentItem> getEmploymentHistory() {
+	if(employmentHistory == null){
+	    employmentHistory = new ArrayList<EmploymentItem>();
+	}
         return employmentHistory;
     }
 

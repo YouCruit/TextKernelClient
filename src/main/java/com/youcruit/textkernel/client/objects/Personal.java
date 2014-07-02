@@ -1,5 +1,6 @@
 package com.youcruit.textkernel.client.objects;
 
+import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
@@ -39,18 +40,27 @@ public class Personal {
         this.nationalityCodeDescription = nationalityCodeDescription;
     }
     public List<String> getMobilePhones() {
+	if(mobilePhones == null){
+	    mobilePhones = new ArrayList<String>();
+	}
         return mobilePhones;
     }
     public void setMobilePhones(List<String> mobilePhones) {
         this.mobilePhones = mobilePhones;
     }
     public List<String> getHomePhones() {
+	if(homePhones == null){
+	    homePhones = new ArrayList<String>();
+	}
         return homePhones;
     }
     public void setHomePhones(List<String> homePhones) {
         this.homePhones = homePhones;
     }
     public List<String> getEmails() {
+	if(emails == null){
+	    emails = new ArrayList<String>();
+	}
         return emails;
     }
     public void setEmails(List<String> emails) {

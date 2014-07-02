@@ -1,5 +1,6 @@
 package com.youcruit.textkernel.client.objects;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlProperty;
@@ -10,12 +11,18 @@ public class Other {
     @JacksonXmlProperty(localName="References")
     private List<String> references;
     public List<String> getHobbies() {
+	if(hobbies == null){
+	    hobbies = new ArrayList<String>();
+	}
         return hobbies;
     }
     public void setHobbies(List<String> hobbies) {
         this.hobbies = hobbies;
     }
     public List<String> getReferences() {
+	if(references == null){
+	    references = new ArrayList<String>();
+	}
         return references;
     }
     public void setReferences(List<String> references) {
