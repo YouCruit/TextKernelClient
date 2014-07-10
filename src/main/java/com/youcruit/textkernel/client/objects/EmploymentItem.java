@@ -9,6 +9,7 @@ public class EmploymentItem {
     @JacksonXmlProperty(localName="JobTitle")
     private String jobTitle;
     @JacksonXmlProperty(localName="StartDate")
+    @JsonDeserialize(using = TextKernelDateDeserializer.class)
     private Date startDate;
     @JacksonXmlProperty(localName="EndDate")
     @JsonDeserialize(using = TextKernelDateDeserializer.class)

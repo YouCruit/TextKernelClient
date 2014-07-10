@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EducationItem>
+	<EducationLevelCode>7</EducationLevelCode>
+	<EducationLevelCodeDescription>educationLevelCodeDescriptoin</EducationLevelCodeDescription>
+	<DegreeDirection>degreeDirection</DegreeDirection>
+	<StartDate>2012-06-30T00:00:00Z</StartDate>
+	<EndDate>nuvarande</EndDate>
+	<InstituteName>instituteName</InstituteName>
+	<DiplomaCode>4</DiplomaCode>
+	<DiplomaCodeDescription>diplomaCodeDescription</DiplomaCodeDescription>
+</EducationItem>

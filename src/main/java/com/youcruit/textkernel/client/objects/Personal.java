@@ -5,6 +5,7 @@ import java.util.Date;
 import java.util.List;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
+import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
 import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlProperty;
 
 @JsonIgnoreProperties(ignoreUnknown = true)
@@ -16,6 +17,7 @@ public class Personal {
     @JacksonXmlProperty(localName="LastName")
     private String lastName;
     @JacksonXmlProperty(localName="DateOfBirth")
+    @JsonDeserialize(using = TextKernelDateDeserializer.class)
     private Date dateOfBirth;
     @JacksonXmlProperty(localName="Address")
     private Address address;

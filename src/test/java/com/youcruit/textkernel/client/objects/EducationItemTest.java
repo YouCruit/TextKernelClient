@@ -24,7 +24,6 @@ public class EducationItemTest {
     
     @Before
     public void setUp() throws ParseException {
-	is = Thread.currentThread().getContextClassLoader().getResourceAsStream("EducationItem.xml");
 	om = new XmlMapper();
 	expected = new EductationItem();
 	expected.setEducationLevelCode(7);
@@ -41,6 +40,15 @@ public class EducationItemTest {
     
     @Test
     public void testParseEducationItem() throws JsonParseException, JsonMappingException, IOException{
+	is = Thread.currentThread().getContextClassLoader().getResourceAsStream("EducationItem.xml");
+	EductationItem actual = om.readValue(is,  EductationItem.class);
+	assertEquals(expected, actual);
+    }
+    
+    @Test
+    public void testParseEducationItemEndDateAsString() throws JsonParseException, JsonMappingException, IOException {
+	is = Thread.currentThread().getContextClassLoader().getResourceAsStream("EducationItemEndDateAsText.xml");
+	expected.setEndDate(null);
 	EductationItem actual = om.readValue(is,  EductationItem.class);
 	assertEquals(expected, actual);
     }

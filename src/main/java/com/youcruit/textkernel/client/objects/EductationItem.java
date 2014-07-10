@@ -2,6 +2,7 @@ package com.youcruit.textkernel.client.objects;
 
 import java.util.Date;
 
+import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
 import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlProperty;
 
 public class EductationItem {
@@ -12,8 +13,10 @@ public class EductationItem {
     @JacksonXmlProperty(localName="DegreeDirection")
     private String degreeDirection;
     @JacksonXmlProperty(localName="StartDate")
+    @JsonDeserialize(using = TextKernelDateDeserializer.class)
     private Date startDate;
     @JacksonXmlProperty(localName="EndDate")
+    @JsonDeserialize(using = TextKernelDateDeserializer.class)
     private Date EndDate;
     @JacksonXmlProperty(localName="InstituteName")
     private String InstituteName;
