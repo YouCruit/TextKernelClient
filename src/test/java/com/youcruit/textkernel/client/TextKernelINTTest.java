@@ -6,6 +6,7 @@ import java.net.URISyntaxException;
 
 import com.fasterxml.jackson.core.JsonParseException;
 import com.fasterxml.jackson.databind.JsonMappingException;
+import com.youcruit.textkernel.client.objects.Profile;
 
 public class TextKernelINTTest {
 
@@ -14,7 +15,9 @@ public class TextKernelINTTest {
 	    System.out.println("Usage: java TextKernelINTTest url username account password path_to_cv");
 	}
 	TextKernelClient tkclient = new TextKernelClient(args[0], args[1], args[2], args[3]);
-	System.out.println(tkclient.getProfile(new File(args[4])));
+	Profile p = tkclient.getProfile(new File(args[4]));
+	System.out.println(p.getRawHtml());
+
     }
 
 }

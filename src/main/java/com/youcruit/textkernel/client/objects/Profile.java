@@ -21,6 +21,8 @@ public class Profile {
     private Other other;
     @JacksonXmlProperty(localName="CustomArea")
     private CustomArea customArea;
+    @JacksonXmlProperty(localName="DocumentHtml")
+    private String rawHtml;
     
     public String getLang() {
         return lang;
@@ -82,6 +84,14 @@ public class Profile {
 
     public void setCustomArea(CustomArea customArea) {
         this.customArea = customArea;
+    }
+
+    public String getRawHtml() {
+	return rawHtml;
+    }
+
+    public void setRawHtml(String rawHtml) {
+	this.rawHtml = rawHtml;
     }
 
     @Override
