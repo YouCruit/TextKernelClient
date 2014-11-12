@@ -9,6 +9,7 @@ import java.net.URISyntaxException;
 
 import org.apache.http.HttpEntity;
 import org.apache.http.HttpResponse;
+import org.apache.http.HttpStatus;
 import org.apache.http.client.ClientProtocolException;
 import org.apache.http.client.methods.HttpPost;
 import org.apache.http.conn.ClientConnectionManager;
@@ -24,6 +25,7 @@ import org.apache.http.impl.conn.tsccm.ThreadSafeClientConnManager;
 import org.apache.http.params.HttpParams;
 import org.apache.http.protocol.BasicHttpContext;
 import org.apache.http.protocol.HttpContext;
+import org.apache.http.util.EntityUtils;
 
 import com.fasterxml.jackson.core.JsonParseException;
 import com.fasterxml.jackson.databind.JsonMappingException;
@@ -74,7 +76,13 @@ public class TextKernelClient {
 	entity.addPart(new FormBodyPart(FORM_PART_NAME_PASSWORD, new StringBody(password)));
 	upload.setEntity(entity);
 	HttpResponse response = client.execute(upload, localContext);
-
+	
+	int status = response.getStatusLine().getStatusCode();
+	if(status != HttpStatus.SC_OK){
+	    String responseString = EntityUtils.toString(response.getEntity());
+	    throw new IOException("TextKernel returned a non expected response code: " + status + " \nResponse was:\n " + responseString);
+	}
+	
 	HttpEntity responseEntity = response.getEntity();
 	return responseEntity.getContent();
     }
