@@ -16,7 +16,7 @@ Add our Maven Snapshot repository to your pom file
  <name>youcruit-cloudbees-snapshot</name>
  <url>http://repository-youcruit.forge.cloudbees.com/public/</url>
  <releases>
-  <enabled>false</enabled>
+  <enabled>true</enabled>
  </releases>
  <snapshots>
   <enabled>true</enabled>
@@ -29,7 +29,7 @@ Also add the dependency to your pom
 <dependency>
  <groupId>com.youcruit.textkernel.client</groupId>
  <artifactId>TextKernelClient</artifactId>
- <version>0.1.6-SNAPSHOT</version>
+ <version>0.1.6</version>
 </dependency>
 ```
 
