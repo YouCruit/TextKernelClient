@@ -5,6 +5,7 @@ import static org.junit.Assert.assertNotNull;
 import java.io.IOException;
 import java.io.InputStream;
 
+import org.apache.commons.io.IOUtils;
 import org.junit.Test;
 
 import com.fasterxml.jackson.core.JsonParseException;
@@ -15,9 +16,10 @@ public class ProfileParserTest {
 
     @Test
     public void parseTest() throws JsonParseException, JsonMappingException, IOException{
-	InputStream is = Thread.currentThread().getContextClassLoader().getResourceAsStream("Profile.xml");
+	InputStream is = getClass().getResourceAsStream("/Profile.xml");
+	byte[] bytes = IOUtils.toByteArray(is);
 	ProfileParser parser = new ProfileParser();
-	Profile p = parser.parse(is);
+	Profile p = parser.parse(bytes);
 	assertNotNull(p);
     }
 }

@@ -23,5 +23,4 @@ public class TextKernelINTTest {
 	Profile p = tkclient.getProfile(new FileInputStream(new File(file)));
 	System.out.println(p.getRawHtml());
     }
-
 }
