@@ -3,10 +3,11 @@ package com.youcruit.textkernel.client.objects;
 import static org.junit.Assert.assertEquals;
 
 import java.io.IOException;
-import java.io.InputStream;
+import java.io.InputStreamReader;
 import java.text.ParseException;
 import java.util.Calendar;
 
+import org.apache.commons.io.IOUtils;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
@@ -17,7 +18,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.dataformat.xml.XmlMapper;
 
 public class EmploymentItemTest {
-    private InputStream is;
+    private InputStreamReader is;
     private ObjectMapper om;
     private EmploymentItem expected;
     
@@ -28,7 +29,7 @@ public class EmploymentItemTest {
     
     @Test
     public void testParseEmploymentItem() throws JsonParseException, JsonMappingException, IOException{
-	is = Thread.currentThread().getContextClassLoader().getResourceAsStream("EmploymentItem.xml");
+	InputStreamReader is = new InputStreamReader(Thread.currentThread().getContextClassLoader().getResourceAsStream("EmploymentItem.xml"), "UTF-8");
 	expected = new EmploymentItem();
 	expected.setJobTitle("jobTitle");
 	Calendar cal = Calendar.getInstance();
@@ -50,7 +51,7 @@ public class EmploymentItemTest {
     
     @Test
     public void testParseEmploymentItem2() throws JsonParseException, JsonMappingException, IOException{
-	is = Thread.currentThread().getContextClassLoader().getResourceAsStream("EmploymentItem2.xml");
+	is = new InputStreamReader(Thread.currentThread().getContextClassLoader().getResourceAsStream("EmploymentItem2.xml"), "UTF-8");
 	expected = new EmploymentItem();
 	expected.setJobTitle("Faltsaljare; Kundansvarig - Region sodra Skane");
 	Calendar cal = Calendar.getInstance();
@@ -72,7 +73,7 @@ public class EmploymentItemTest {
     
     @Test
     public void testParseEmploymentItem3() throws JsonParseException, JsonMappingException, IOException{
-	is = Thread.currentThread().getContextClassLoader().getResourceAsStream("EmploymentItem3.xml");
+	is = new InputStreamReader(Thread.currentThread().getContextClassLoader().getResourceAsStream("EmploymentItem3.xml"), "UTF-8");
 	expected = new EmploymentItem();
 	Calendar cal = Calendar.getInstance();
 	cal.set(Calendar.YEAR, 2007);
@@ -99,6 +100,6 @@ public class EmploymentItemTest {
     
     @After
     public void tearDown() throws IOException{
-	is.close();
+	IOUtils.closeQuietly(is);
     }
 }

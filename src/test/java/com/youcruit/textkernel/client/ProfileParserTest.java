@@ -3,7 +3,7 @@ package com.youcruit.textkernel.client;
 import static org.junit.Assert.assertNotNull;
 
 import java.io.IOException;
-import java.io.InputStream;
+import java.io.InputStreamReader;
 
 import org.apache.commons.io.IOUtils;
 import org.junit.Test;
@@ -16,7 +16,7 @@ public class ProfileParserTest {
 
     @Test
     public void parseTest() throws JsonParseException, JsonMappingException, IOException{
-	InputStream is = getClass().getResourceAsStream("/Profile.xml");
+	InputStreamReader is = new InputStreamReader(getClass().getResourceAsStream("/Profile.xml"), "UTF-8");
 	byte[] bytes = IOUtils.toByteArray(is);
 	ProfileParser parser = new ProfileParser();
 	Profile p = parser.parse(bytes);
