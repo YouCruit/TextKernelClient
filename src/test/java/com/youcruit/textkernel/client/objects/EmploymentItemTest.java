@@ -52,7 +52,7 @@ public class EmploymentItemTest {
     public void testParseEmploymentItem2() throws JsonParseException, JsonMappingException, IOException{
 	is = Thread.currentThread().getContextClassLoader().getResourceAsStream("EmploymentItem2.xml");
 	expected = new EmploymentItem();
-	expected.setJobTitle("Fältsäljare; Kundansvarig - Region södra Skåne");
+	expected.setJobTitle("Faltsaljare; Kundansvarig - Region sodra Skane");
 	Calendar cal = Calendar.getInstance();
 	cal.set(Calendar.YEAR, 2011);
 	cal.set(Calendar.MONTH, 0);
@@ -64,7 +64,7 @@ public class EmploymentItemTest {
 	expected.setStartDate(cal.getTime());
 	expected.setEndDate(null);
 	expected.setExperienceYears(4);
-	expected.setEmployerName("Toms Sverige Malmö");
+	expected.setEmployerName("Toms Sverige Malmo");
 	expected.setDescription("Random long description");
 	EmploymentItem actual = om.readValue(is,  EmploymentItem.class);
 	assertEquals(expected, actual);
@@ -92,7 +92,7 @@ public class EmploymentItemTest {
 	cal.set(Calendar.MILLISECOND, 0);
 	expected.setEndDate(cal.getTime());
 	expected.setExperienceYears(5);
-	expected.setEmployerName("Eniro Sverige Försäljning AB Malmö");
+	expected.setEmployerName("Eniro Sverige Forsaljning AB Malmo");
 	EmploymentItem actual = om.readValue(is,  EmploymentItem.class);
 	assertEquals(expected, actual);
     }

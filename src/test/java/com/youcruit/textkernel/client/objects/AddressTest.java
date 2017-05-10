@@ -13,7 +13,6 @@ import com.fasterxml.jackson.core.JsonParseException;
 import com.fasterxml.jackson.databind.JsonMappingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.dataformat.xml.XmlMapper;
-import com.youcruit.textkernel.client.objects.Address;
 
 public class AddressTest {
     private InputStream is;
@@ -25,7 +24,7 @@ public class AddressTest {
 	is = Thread.currentThread().getContextClassLoader().getResourceAsStream("Address.xml");
 	om = new XmlMapper();
 	expected = new Address();
-	expected.setCity("Malmö");
+	expected.setCity("Malmo");
 	expected.setCountryCodeDescription("Island");
 	expected.setPostalCode("123");
 	expected.setStreetNumberBase("1");
