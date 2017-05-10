@@ -1,41 +1,47 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	 xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.youcruit.textkernel.client</groupId>
     <artifactId>TextKernelClient</artifactId>
     <version>0.3.4-SNAPSHOT</version>
     <packaging>jar</packaging>
-
     <name>TextKernelClient</name>
     <url>https://github.com/YouCruit/TextKernelClient</url>
-
     <properties>
 	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	<jdkVersion>1.8</jdkVersion>
+	<targetJdk>1.8</targetJdk>
+	<maven.build.timestamp.format>yyyyMMddHHmmsss</maven.build.timestamp.format>
     </properties>
-
     <scm>
 	<connection>scm:git:git@github.com:YouCruit/TextKernelClient.git</connection>
-      <tag>HEAD</tag>
-  </scm>
-
-    <!-- Deploy releases and snapshots to the CloudBees maven repositories -->
+	<tag>HEAD</tag>
+    </scm>
     <distributionManagement>
 	<repository>
 	    <id>youcruit-cloudbees-release</id>
 	    <name>youcruit-cloudbees-release</name>
-	    <url>dav:https://repository-youcruit.forge.cloudbees.com/public/</url>
+	    <url>dav:https://repository-youcruit.forge.cloudbees.com/release/</url>
 	</repository>
-	<snapshotRepository>
-	    <id>youcruit-cloudbees-snapshot</id>
-	    <name>youcruit-cloudbees-snapshot</name>
-	    <url>dav:https://repository-youcruit.forge.cloudbees.com/public/</url>
-	</snapshotRepository>
-	<site>
-	    <id>youcruit-cloudbees-site</id>
-	    <name>youcruit-cloudbees-site</name>
-	    <url>dav:https://repository-youcruit.forge.cloudbees.com/public/sites/${project.artifactId}</url>
-	</site>
     </distributionManagement>
+    <repositories>
+	<repository>
+	    <id>youcruit-cloudbees-release</id>
+	    <name>youcruit-cloudbees-release</name>
+	    <url>https://repository-youcruit.forge.cloudbees.com/release/</url>
+	    <releases>
+		<enabled>true</enabled>
+	    </releases>
+	    <snapshots>
+		<enabled>false</enabled>
+	    </snapshots>
+	</repository>
+	<repository>
+	    <id>jcenter</id>
+	    <url>http://jcenter.bintray.com</url>
+	</repository>
+    </repositories>
     <dependencies>
 	<dependency>
 	    <groupId>junit</groupId>
@@ -78,33 +84,64 @@
 	<plugins>
 	    <plugin>
 		<groupId>org.apache.maven.plugins</groupId>
+		<artifactId>maven-eclipse-plugin</artifactId>
+		<version>2.8</version>
+		<configuration>
+		    <downloadSources>true</downloadSources>
+		</configuration>
+	    </plugin>
+	    <plugin>
 		<artifactId>maven-release-plugin</artifactId>
-		<version>2.5</version>
-	    </plugin>
-	    <plugin>
-		<groupId>org.codehaus.mojo</groupId>
-		<artifactId>versions-maven-plugin</artifactId>
-		<version>2.1</version>
-	    </plugin>
-	    <plugin>
-		<artifactId>maven-scm-plugin</artifactId>
-		<version>1.8.1</version>
+		<version>2.5.3</version>
 		<configuration>
-		    <tag>${project.artifactId}-${project.version}</tag>
+		    <autoVersionSubmodules>true</autoVersionSubmodules>
 		</configuration>
 	    </plugin>
 	    <plugin>
-		<artifactId>maven-deploy-plugin</artifactId>
-		<version>2.8.1</version>
+		<artifactId>maven-site-plugin</artifactId>
+		<version>3.6</version>
+		<configuration>
+		    <skip>true</skip>
+		    <skipDeploy>true</skipDeploy>
+		</configuration>
 	    </plugin>
 	    <plugin>
-		<groupId>org.apache.maven.plugins</groupId>
+		<inherited>true</inherited>
 		<artifactId>maven-compiler-plugin</artifactId>
-		<version>3.5</version>
+		<version>3.5.1</version>
 		<configuration>
-		    <source>1.8</source>
-		    <target>1.8</target>
+		    <source>${jdkVersion}</source>
+		    <target>${targetJdk}</target>
+		    <optimize>true</optimize>
+		    <debug>true</debug>
 		</configuration>
+	    </plugin>
+	    <plugin>
+		<groupId>org.codehaus.gmavenplus</groupId>
+		<artifactId>gmavenplus-plugin</artifactId>
+		<version>1.5</version>
+		<executions>
+		    <execution>
+			<goals>
+			    <goal>addSources</goal>
+			    <goal>addTestSources</goal>
+			    <goal>compile</goal>
+			    <goal>testCompile</goal>
+			</goals>
+		    </execution>
+		</executions>
+	    </plugin>
+	    <plugin>
+		<artifactId>versions-maven-plugin</artifactId>
+		<version>2.3</version>
+	    </plugin>
+	    <plugin>
+		<artifactId>maven-resources-plugin</artifactId>
+		<version>3.0.1</version>
+	    </plugin>
+	    <plugin>
+		<artifactId>maven-dependency-plugin</artifactId>
+		<version>2.10</version>
 	    </plugin>
 	</plugins>
     </build>
