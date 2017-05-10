@@ -10,7 +10,6 @@ import java.util.Calendar;
 import org.apache.commons.io.IOUtils;
 import org.junit.After;
 import org.junit.Before;
-import org.junit.Test;
 
 import com.fasterxml.jackson.core.JsonParseException;
 import com.fasterxml.jackson.databind.JsonMappingException;
@@ -27,7 +26,7 @@ public class EmploymentItemTest {
 	om = new XmlMapper();
     }
     
-    @Test
+
     public void testParseEmploymentItem() throws JsonParseException, JsonMappingException, IOException{
 	InputStreamReader is = new InputStreamReader(Thread.currentThread().getContextClassLoader().getResourceAsStream("EmploymentItem.xml"), "UTF-8");
 	expected = new EmploymentItem();
@@ -49,7 +48,7 @@ public class EmploymentItemTest {
 	assertEquals(expected, actual);
     }
     
-    @Test
+
     public void testParseEmploymentItem2() throws JsonParseException, JsonMappingException, IOException{
 	is = new InputStreamReader(Thread.currentThread().getContextClassLoader().getResourceAsStream("EmploymentItem2.xml"), "UTF-8");
 	expected = new EmploymentItem();
@@ -71,7 +70,7 @@ public class EmploymentItemTest {
 	assertEquals(expected, actual);
     }
     
-    @Test
+    
     public void testParseEmploymentItem3() throws JsonParseException, JsonMappingException, IOException{
 	is = new InputStreamReader(Thread.currentThread().getContextClassLoader().getResourceAsStream("EmploymentItem3.xml"), "UTF-8");
 	expected = new EmploymentItem();
