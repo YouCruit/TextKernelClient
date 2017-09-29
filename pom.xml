@@ -20,7 +20,6 @@
     <scm>
 	<connection>scm:git:git@github.com:YouCruit/TextKernelClient.git</connection>
 	<developerConnection>scm:git:git@github.com:YouCruit/TextKernelClient.git</developerConnection>
-	<tag>TextKernelClient-0.3.5</tag>
     </scm>
     <distributionManagement>
 	<snapshotRepository>
