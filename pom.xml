@@ -20,8 +20,9 @@
     <scm>
 	<connection>scm:git:git@github.com:YouCruit/TextKernelClient.git</connection>
 	<developerConnection>scm:git:git@github.com:YouCruit/TextKernelClient.git</developerConnection>
-      <tag>HEAD</tag>
-  </scm>
+	<tag>HEAD</tag>
+	<url>https://github.com/YouCruit/TextKernelClient/</url>
+    </scm>
     <distributionManagement>
 	<snapshotRepository>
 	    <id>ossrh</id>
