@@ -30,6 +30,13 @@
 	    <url>https://oss.sonatype.org/service/local/staging/deploy/maven2/</url>
 	</repository>
     </distributionManagement>
+    <developers>
+	<developer>
+	    <id>tobias-</id>
+	    <name>Tobias</name>
+	    <url>https://github.com/tobias-/</url>
+	</developer>
+    </developers>
     <dependencies>
 	<dependency>
 	    <groupId>junit</groupId>
