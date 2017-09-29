@@ -43,7 +43,7 @@ public class Personal {
     }
     public List<String> getMobilePhones() {
 	if(mobilePhones == null){
-	    mobilePhones = new ArrayList<String>();
+	    mobilePhones = new ArrayList<>();
 	}
         return mobilePhones;
     }
@@ -52,7 +52,7 @@ public class Personal {
     }
     public List<String> getHomePhones() {
 	if(homePhones == null){
-	    homePhones = new ArrayList<String>();
+	    homePhones = new ArrayList<>();
 	}
         return homePhones;
     }
@@ -61,7 +61,7 @@ public class Personal {
     }
     public List<String> getEmails() {
 	if(emails == null){
-	    emails = new ArrayList<String>();
+	    emails = new ArrayList<>();
 	}
         return emails;
     }
