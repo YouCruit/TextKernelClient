@@ -18,29 +18,15 @@
 	<tag>HEAD</tag>
     </scm>
     <distributionManagement>
+	<snapshotRepository>
+	    <id>ossrh</id>
+	    <url>https://oss.sonatype.org/content/repositories/snapshots</url>
+	</snapshotRepository>
 	<repository>
-	    <id>youcruit-cloudbees-release</id>
-	    <name>youcruit-cloudbees-release</name>
-	    <url>dav:https://repository-youcruit.forge.cloudbees.com/release/</url>
+	    <id>ossrh</id>
+	    <url>https://oss.sonatype.org/service/local/staging/deploy/maven2/</url>
 	</repository>
     </distributionManagement>
-    <repositories>
-	<repository>
-	    <id>youcruit-cloudbees-release</id>
-	    <name>youcruit-cloudbees-release</name>
-	    <url>https://repository-youcruit.forge.cloudbees.com/release/</url>
-	    <releases>
-		<enabled>true</enabled>
-	    </releases>
-	    <snapshots>
-		<enabled>false</enabled>
-	    </snapshots>
-	</repository>
-	<repository>
-	    <id>jcenter</id>
-	    <url>http://jcenter.bintray.com</url>
-	</repository>
-    </repositories>
     <dependencies>
 	<dependency>
 	    <groupId>junit</groupId>
@@ -71,16 +57,32 @@
 	</dependency>
     </dependencies>
     <build>
-	<extensions>
-	    <!-- Extension required to deploy a snapshot or a release to the CloudBees remote maven repository using Webdav -->
-	    <extension>
-		<groupId>org.apache.maven.wagon</groupId>
-		<artifactId>wagon-webdav</artifactId>
-		<version>1.0-beta-2</version>
-	    </extension>
-	</extensions>
-
 	<plugins>
+	    <plugin>
+		<groupId>org.sonatype.plugins</groupId>
+		<artifactId>nexus-staging-maven-plugin</artifactId>
+		<version>1.6.3</version>
+		<extensions>true</extensions>
+		<configuration>
+		    <serverId>ossrh</serverId>
+		    <nexusUrl>https://oss.sonatype.org/</nexusUrl>
+		    <autoReleaseAfterClose>true</autoReleaseAfterClose>
+		</configuration>
+	    </plugin>
+	    <plugin>
+		<groupId>org.apache.maven.plugins</groupId>
+		<artifactId>maven-gpg-plugin</artifactId>
+		<version>1.5</version>
+		<executions>
+		    <execution>
+			<id>sign-artifacts</id>
+			<phase>verify</phase>
+			<goals>
+			    <goal>sign</goal>
+			</goals>
+		    </execution>
+		</executions>
+	    </plugin>
 	    <plugin>
 		<groupId>org.apache.maven.plugins</groupId>
 		<artifactId>maven-eclipse-plugin</artifactId>
