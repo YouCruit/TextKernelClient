@@ -1,8 +1,10 @@
 package com.youcruit.textkernel.client;
 
+import static java.nio.charset.StandardCharsets.UTF_8;
+
 import java.io.ByteArrayInputStream;
 import java.io.IOException;
-import java.nio.charset.Charset;
+import java.util.Base64;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -15,7 +17,6 @@ public class ProfileParser {
     private static final Pattern HTML_ERROR_PARSER = Pattern.compile("^<!DOCTYPE html.*<meta name=\"error-desc\" content=\"([^\"]+).*$", Pattern.CASE_INSENSITIVE | Pattern.DOTALL);
 
     private ObjectMapper mapper;
-    private Charset UTF_8 = Charset.forName("UTF-8");
 
     public ProfileParser() {
 	mapper = new XmlMapper();
@@ -27,10 +28,10 @@ public class ProfileParser {
 	} else {
 	    String asString = new String(bArray, UTF_8);
 	    Matcher matcher = HTML_ERROR_PARSER.matcher(asString);
-	    if (matcher.matches()) {
+	    if (matcher.find()) {
 		throw new TextKernelParsingException(matcher.group(1), asString);
 	    } else {
-		throw new TextKernelParsingException(asString, asString);
+		throw new TextKernelParsingException(Base64.getEncoder().encodeToString(asString.getBytes(UTF_8)), asString);
 	    }
 	}
     }
