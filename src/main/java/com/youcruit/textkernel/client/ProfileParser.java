@@ -14,7 +14,7 @@ import com.youcruit.textkernel.client.exceptions.TextKernelParsingException;
 import com.youcruit.textkernel.client.objects.Profile;
 
 public class ProfileParser {
-    private static final Pattern HTML_ERROR_PARSER = Pattern.compile("^<!DOCTYPE html.*<meta name=\"error-desc\" content=\"([^\"]+).*$", Pattern.CASE_INSENSITIVE | Pattern.DOTALL);
+    private static final Pattern HTML_ERROR_PARSER = Pattern.compile("<!DOCTYPE html.*<meta name=\"error-desc\" content=\"([^\"]+).*", Pattern.CASE_INSENSITIVE | Pattern.DOTALL);
 
     private ObjectMapper mapper;
 
