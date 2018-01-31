@@ -9,27 +9,12 @@ Usage
 
 The client is built and distributed with Maven
 ### Maven dependencies
-Add our Maven Snapshot repository to your pom file
-```xml
-<repository>
- <id>youcruit-cloudbees-snapshot</id>
- <name>youcruit-cloudbees-snapshot</name>
- <url>http://repository-youcruit.forge.cloudbees.com/public/</url>
- <releases>
-  <enabled>true</enabled>
- </releases>
- <snapshots>
-  <enabled>true</enabled>
- </snapshots>
-</repository>
-```
-
-Also add the dependency to your pom
+Add the dependency to your pom
 ```xml
 <dependency>
  <groupId>com.youcruit.textkernel.client</groupId>
  <artifactId>TextKernelClient</artifactId>
- <version>0.3.0</version>
+ <version>0.3.16</version>
 </dependency>
 ```
 

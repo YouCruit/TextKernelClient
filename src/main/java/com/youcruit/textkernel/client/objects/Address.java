@@ -1,86 +1,131 @@
 package com.youcruit.textkernel.client.objects;
 
+import java.util.Objects;
+
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlProperty;
+import com.neovisionaries.i18n.CountryCode;
 
 @JsonIgnoreProperties(ignoreUnknown = true)
 public class Address {
-    @JacksonXmlProperty(localName="StreetName")
+    @JacksonXmlProperty(localName = "StreetName")
     private String streetName;
-    @JacksonXmlProperty(localName="StreetNumberBase")
+    @JacksonXmlProperty(localName = "StreetNumberBase")
     private String streetNumberBase;
-    @JacksonXmlProperty(localName="PostalCode")
+    @JacksonXmlProperty(localName = "PostalCode")
     private String postalCode;
-    @JacksonXmlProperty(localName="City")
+    @JacksonXmlProperty(localName = "City")
     private String city;
-    @JacksonXmlProperty(localName="CountryCodeDescription")
+    @JacksonXmlProperty(localName = "CountryCodeDescription")
     private String countryCodeDescription;
+    @JacksonXmlProperty(localName = "CountryCode")
+    private CountryCode countryCode;
+    @JacksonXmlProperty(localName = "RegionCode")
+    private String regionCode;
+    @JacksonXmlProperty(localName = "RegionCodeDescription")
+    private String regionCodeDescription;
+
     public String getStreetName() {
-        return streetName;
+	return streetName;
     }
+
     public void setStreetName(String streetName) {
-        this.streetName = streetName;
+	this.streetName = streetName;
     }
+
     public String getStreetNumberBase() {
-        return streetNumberBase;
+	return streetNumberBase;
     }
+
     public void setStreetNumberBase(String streetNumberBase) {
-        this.streetNumberBase = streetNumberBase;
+	this.streetNumberBase = streetNumberBase;
     }
+
     public String getPostalCode() {
-        return postalCode;
+	return postalCode;
     }
+
     public void setPostalCode(String postalCode) {
-        this.postalCode = postalCode;
+	this.postalCode = postalCode;
     }
+
     public String getCity() {
-        return city;
+	return city;
     }
+
     public void setCity(String city) {
-        this.city = city;
+	this.city = city;
     }
+
     public String getCountryCodeDescription() {
-        return countryCodeDescription;
+	return countryCodeDescription;
     }
+
     public void setCountryCodeDescription(String countryCodeDescription) {
-        this.countryCodeDescription = countryCodeDescription;
+	this.countryCodeDescription = countryCodeDescription;
     }
+
+    public CountryCode getCountryCode() {
+
+	return countryCode;
+    }
+
+    public void setCountryCode(final CountryCode countryCode) {
+	this.countryCode = countryCode;
+    }
+
+    public String getRegionCode() {
+	return regionCode;
+    }
+
+    public void setRegionCode(final String regionCode) {
+	this.regionCode = regionCode;
+    }
+
+    public String getRegionCodeDescription() {
+	return regionCodeDescription;
+    }
+
+    public void setRegionCodeDescription(final String regionCodeDescription) {
+	this.regionCodeDescription = regionCodeDescription;
+    }
+
+    @Override
+    public boolean equals(final Object o) {
+	if (this == o) {
+	    return true;
+	}
+	if (!(o instanceof Address)) {
+	    return false;
+	}
+	Address address = (Address) o;
+	return Objects.equals(getStreetName(), address.getStreetName()) &&
+		Objects.equals(getStreetNumberBase(), address.getStreetNumberBase()) &&
+		Objects.equals(getPostalCode(), address.getPostalCode()) &&
+		Objects.equals(getCity(), address.getCity()) &&
+		Objects.equals(getCountryCodeDescription(), address.getCountryCodeDescription()) &&
+		getCountryCode() == address.getCountryCode() &&
+		Objects.equals(getRegionCode(), address.getRegionCode()) &&
+		Objects.equals(getRegionCodeDescription(), address.getRegionCodeDescription());
+    }
+
     @Override
     public int hashCode() {
-	final int prime = 31;
-	int result = 1;
-	result = prime * result + ((city == null) ? 0 : city.hashCode());
-	result = prime * result + ((countryCodeDescription == null) ? 0 : countryCodeDescription.hashCode());
-	result = prime * result + ((postalCode == null) ? 0 : postalCode.hashCode());
-	result = prime * result + ((streetName == null) ? 0 : streetName.hashCode());
-	result = prime * result + ((streetNumberBase == null) ? 0 : streetNumberBase.hashCode());
-	return result;
+
+	return Objects.hash(getStreetName(), getStreetNumberBase(), getPostalCode(), getCity(), getCountryCodeDescription(), getCountryCode(), getRegionCode(), getRegionCodeDescription());
     }
-    @Override
-    public boolean equals(Object obj) {
-	if (this == obj) return true;
-	if (obj == null) return false;
-	if (!(obj instanceof Address)) return false;
-	Address other = (Address) obj;
-	if (city == null) {
-	    if (other.city != null) return false;
-	} else if (!city.equals(other.city)) return false;
-	if (countryCodeDescription == null) {
-	    if (other.countryCodeDescription != null) return false;
-	} else if (!countryCodeDescription.equals(other.countryCodeDescription)) return false;
-	if (postalCode == null) {
-	    if (other.postalCode != null) return false;
-	} else if (!postalCode.equals(other.postalCode)) return false;
-	if (streetName == null) {
-	    if (other.streetName != null) return false;
-	} else if (!streetName.equals(other.streetName)) return false;
-	if (streetNumberBase == null) {
-	    if (other.streetNumberBase != null) return false;
-	} else if (!streetNumberBase.equals(other.streetNumberBase)) return false;
-	return true;
-    }
+
     @Override
     public String toString() {
-	return "Address [streetName=" + streetName + ", streetNumberBase=" + streetNumberBase + ", postalCode=" + postalCode + ", city=" + city + ", countryCodeDescription=" + countryCodeDescription + "]";
+	return "Address{" +
+		"streetName='" + streetName + '\'' +
+		", streetNumberBase='" + streetNumberBase + '\'' +
+		", postalCode='" + postalCode + '\'' +
+		", city='" + city + '\'' +
+		", countryCodeDescription='" + countryCodeDescription + '\'' +
+		", countryCode=" + countryCode +
+		", regionCode='" + regionCode + '\'' +
+		", regionCodeDescription='" + regionCodeDescription + '\'' +
+		'}';
     }
 }
