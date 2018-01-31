@@ -4,8 +4,8 @@
 	<StreetNumberBase>1</StreetNumberBase>
 	<PostalCode>123</PostalCode>
 	<City>Malmo</City>
-	<RegionCode></RegionCode>
-	<RegionCodeDescription></RegionCodeDescription>
-	<CountryCode></CountryCode>
-	<CountryCodeDescription>Island</CountryCodeDescription>
+	<RegionCode>SE-SC</RegionCode>
+	<RegionCodeDescription>Sweden Scania</RegionCodeDescription>
+	<CountryCode>SE</CountryCode>
+	<CountryCodeDescription>Sweden</CountryCodeDescription>
 </Address>

@@ -41,6 +41,8 @@ public class PersonalTest {
 	address.setCountryCodeDescription("");
 	address.setStreetName("");
 	address.setStreetNumberBase("");
+	address.setRegionCodeDescription("");
+	address.setRegionCode("");
 	expected.setAddress(address);
 	List<String> homePhones = new ArrayList<String>();
 	homePhones.add("0046(0)555555555");

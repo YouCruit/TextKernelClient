@@ -13,6 +13,7 @@ import com.fasterxml.jackson.core.JsonParseException;
 import com.fasterxml.jackson.databind.JsonMappingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.dataformat.xml.XmlMapper;
+import com.neovisionaries.i18n.CountryCode;
 
 public class AddressTest {
     private InputStream is;
@@ -25,10 +26,13 @@ public class AddressTest {
 	om = new XmlMapper();
 	expected = new Address();
 	expected.setCity("Malmo");
-	expected.setCountryCodeDescription("Island");
+	expected.setCountryCodeDescription("Sweden");
 	expected.setPostalCode("123");
 	expected.setStreetNumberBase("1");
 	expected.setStreetName("streetName");
+	expected.setRegionCode("SE-SC");
+	expected.setRegionCodeDescription("Sweden Scania");
+	expected.setCountryCode(CountryCode.SE);
     }
     
     @Test
